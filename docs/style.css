@@ -1,9 +1,9 @@
 body {
-	background-image:url(support/background.jpg);
+	background-image: url(support/background.jpg);
 	background-position: center;
-	  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
 	cursor: url('support/rcursor.png'), auto;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -11,68 +11,80 @@ body {
 a {
 	cursor: url('support/lcursor.png'), auto;
 }
-
+.note {
+	background-color: #bfff00;
+	text-align: center;
+}
 .alien ::selection {
-	background: #59ff34;
-	color: rgb(8, 9, 56);
+	background: #63ffc8;
+	color: #0c90b5;
 	text-shadow: none;
 }
 
 .yokai ::selection {
-	background: #ff0000;
-	color: rgb(35, 1, 23);
+	background: #ec1921;
+	color: rgb(211, 211, 211);
 	text-shadow: none;
 }
-<!-- image settings 
-.leftI img {
- float: left;
+
+< !-- image settings
+.left {
+	float: left;
+	padding-right: 2em;
+	min-width: 15em;
+	
 }
-.rightI {
+
+.right {
 	float: right;
 	padding-left: 2em;
 	min-width: 15em;
+	text-align: right;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .sicon {
 	width: 2em;
 }
 
-<!-- navbar settings 
-
-.nav figure {
-  margin: 0;
-  padding: 0;
-    height: 2em;
+< !-- navbar settings .nav figure {
+	margin: 0;
+	padding: 0;
+	height: 2em;
 
 }
 
 .nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #181818;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #181818;
 
 }
 
 .nav li {
-  float:right;
-  font-size: 2em;
-  vertical-align:middle;
+	float: right;
+	font-size: 2em;
+	vertical-align: middle;
 }
 
 .nav a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 16px 20px;
-  text-decoration: none;
+	display: block;
+	text-align: center;
+	padding: 16px 20px;
+	text-decoration: none;
 }
 
 .nav a:hover {
-  background-color: #ffffff;
-  color: #ff0000;
+	background-color: #ffffff;
 }
+
 .nav img {
 	height: 2em;
 }
@@ -83,10 +95,14 @@ a {
 	padding-top: 3%;
 	color: black;
 	font-family: verdana;
-	font-size: 12pt;
+	font-size: 16pt;
 	text-align: justify;
 }
 
 .textBlock h1 {
 	font-size: 36pt;
+	font-weight: 1000;
+	background: -webkit-linear-gradient(#ec1921, #710d0d);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
