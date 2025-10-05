@@ -28,7 +28,7 @@ a {
 }
 
 < !-- image settings
-.left {
+.left img{
 	float: left;
 	padding-right: 2em;
 	min-width: 15em;
@@ -50,6 +50,28 @@ a {
 
 .sicon {
 	width: 2em;
+}
+ <!-- image animations 
+
+.shake {
+	  animation-play-state: paused;
+}
+.shake:active {
+  -webkit-animation-name: cssAnimation;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-iteration-count: 4;
+  -webkit-animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+
+}
+
+@-webkit-keyframes cssAnimation {
+  from {
+    -webkit-transform: rotate(0deg) scale(1) skew(0deg);
+  }
+  to {
+    -webkit-transform: rotate(2deg) scale(1.05) skew(0deg);
+  }
 }
 
 < !-- navbar settings .nav figure {
