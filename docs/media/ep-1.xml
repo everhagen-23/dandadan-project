@@ -1,132 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="transcriptReg.rnc" type="application/relax-ng-compact-syntax"?>
-<episode title="That's How Love Starts, Ya Know!" n="1"><dialogue who="Momo">Huh?</dialogue>
-    <dialogue who="Bully A">I said, if you ain't lendin' me money, then no date today. Oh, but I'd
-        be okay if you finally put out instead. You'll pay for the love hotel, though.</dialogue>
-    <dialogue who="Momo">You need to be punched! </dialogue>
-    <dialogue who="Bully A">Why you little… You're full of it! I've had enough of you! Yer broke and
-        ya ain't puttin' out! Get lost!</dialogue>
-    <dialogue who="Momo">Gimme a break, moron! Octopus! Squid! Tuna!</dialogue>
-    <dialogue who="Muko">Totes funny! Seafood names aren't insults.</dialogue>
-    <dialogue who="Momo">Come on, comfort me! He was my first boyfriend.</dialogue>
-    <dialogue who="Muko">That's why I told you to not go for him. What was so good about him,
-        anyway?</dialogue>
-    <dialogue who="Momo">He looked like Ken Takakura. </dialogue>
-    <dialogue who="Muko">-Oh, there you go. -You're so annoying.</dialogue>
-    <dialogue who="Miko">-Oh, there you go. -You're so annoying.</dialogue>
-    <dialogue who="Momo">Nothing wrong with that! I like masculine guys like Ken
-        Takakura!</dialogue>
-    <dialogue who="Muko">"I am an awkward fellow, after all." Dudes like that are
-        extinct.</dialogue>
-    <dialogue who="Miko"> Dudes like that are extinct.</dialogue>
-    <dialogue who="Momo">What the heck. Will I not be able to meet another Mr. Ken in my lifetime?
-        Come on, someone comfort me! Such a cruel world.</dialogue>
-    <dialogue who="Extra">-Damn it! -You missed?</dialogue>
-    <dialogue who="Extra">-I did miss. -Don't look over here. Gross.</dialogue>
-    <dialogue who="Extra">-We have this, too. -Nice.</dialogue>
-    <dialogue who="Extra">Put a magnet inside. </dialogue>
-    <dialogue who="Extra">This'll hurt, won't it? </dialogue>
-    <dialogue who="Momo">What are you reading there? </dialogue>
-    <dialogue who="Ken">Oh? Uh, um… </dialogue>
-    <p on="magazine">BIRTH OF THE AEROSPACE SELF-DEFENSE FORCE GUARDING OUTER SPACE!!</p>
-    <dialogue who="Momo">How lame. Do only scum live in this world? Man, I've had enough. Where can
-        I relieve all this stress?</dialogue>
-    <dialogue who="Ken"> Miss Momo Ayase! -I know you're in love!</dialogue>
-    <dialogue who="Momo">-Huh? </dialogue>
-    <dialogue who="Ken">I know you're in love! </dialogue>
-    <dialogue who="Momo">How many times you gonna say that? </dialogue>
-    <dialogue who="Ken">Someone like Miss Ayase talking to me? That's gotta be the only
-        reason!</dialogue>
-    <dialogue who="Momo"> Maybe you got the wrong idea? It's not like I wanna get chummy with you or
-        anything. Forget all that earlier.</dialogue>
-    <dialogue who="Ken">This is what I'm talking about! </dialogue>
-    <p on="magazine">The President has already gone to Mars! What is the entirety of Project
-        Pegasus?!</p>
-    <dialogue who="Momo">Huh? What? </dialogue> You're a fan of the occult! <dialogue who="Momo">Oh,
-        I don't believe in UFOs or aliens or stuff like that.</dialogue>
-    <dialogue who="Ken">I'm not talking about a UFO, but a UAP! Unidentified Aerial
-        Phenomena!</dialogue>
-    <dialogue who="Momo">Hey, you're being a pest. </dialogue>
-    <dialogue who="Ken">The U.S. military has officially acknowledged the existence of UAPs and
-        reformed the Space Force! Japan has also newly created an Aerospace Self-Defense Force! Any
-        way you look at it, they're getting ready for Space Wars!</dialogue>
-    <dialogue who="Momo">Can I go now? </dialogue>
-    <dialogue who="Ken">What? No, wait! This has the newest image of Nessie, too. Here! It also
-        talks about Lieutenant Colonel Jim Channon and Skinwalker Ranch!</dialogue>
-    <dialogue who="Momo">Shut up! I just got dumped so I don't want any of this. How you push stuff
-        at me is so typical of otaku and really annoying! That's why you have no friends! Don't talk
-        to me like you know me. Sorry, that was a bit much.</dialogue>
-    <p on="idk">YOUR TRUE POWERS AND POTENTIAL HAVE YET TO AWAKEN…</p>
-    <dialogue who="Momo"> Here. I don't believe in aliens. But I do believe in ghosts.</dialogue>
-    <dialogue who="Ken">Oh no, there's no such thing as ghosts. </dialogue>
-    <dialogue who="Momo">I matched the conversation topic to yours, but you outright deny that?!
-        Don't you mock the occult! Just so you know, my grandma is a spirit medium.</dialogue>
-    <dialogue who="Ken">What? </dialogue>
-    <dialogue who="Momo">Have you ever seen an exorcism? It's really wicked! The possessed person
-        goes into convulsions! You can go into convulsions from illness, too.</dialogue>
-    <dialogue who="Ken">It's not proof that ghosts are out there. </dialogue>
-    <dialogue who="Momo">Then have you ever had an alien let you ride a UFO?!</dialogue>
-    <dialogue who="Ken">Your logic is jumping too far! Are you an idiot?!</dialogue>
-    <dialogue who="Muko">Huh? She gave up on Ken Takakura and went after an otaku?</dialogue>
-    <dialogue who="Miko">Look. It's like she doesn't care what other people would think.</dialogue>
-    <dialogue who="Muko">Can't say I hate it. </dialogue>
-    <dialogue who="Momo">Then let's have a contest, dammit! If there really are ghosts, you'll be
-        serving me as a gofer!</dialogue>
-    <dialogue who="Ken">I'll show you UFOs, I mean, UAPs! If you're able to see one, M-Miss Ayase,
-        you'll be my gofer instead!</dialogue>
-    <p on="idk">NAGI GENERAL HOSPITAL OCCULT-KUN </p>
-    <dialogue who="Momo">What is this place? It's way too scary! What part of this is a UFO hotspot? </dialogue>
-    <dialogue who="Ken">They call that Nagi Hospital a sanctuary for UFOs! If you call for a UFO on
-        the roof, you will experience an Abduction!</dialogue>
-    <dialogue who="Momo">What's an Abduction? </dialogue>
-    <dialogue who="Ken">That's when an alien kidnaps you and experiments with your body.</dialogue>
-    <dialogue who="Momo"> Wait, hold on! Have you been experimented on before?!</dialogue>
-    <dialogue who="Ken">There is a chance that I have! </dialogue>
-    <dialogue who="Momo">Huh? </dialogue>
-    <dialogue who="Ken">Many people who experience an Abduction have their memories
-        erased.</dialogue>
-    <dialogue who="Momo">Hey, you. You've never seen a UFO before, have you?</dialogue>
-    <dialogue who="Ken">Do you know about regressive hypnosis? </dialogue>
-    <dialogue who="Momo">Don't change the subject on me. </dialogue>
-    <dialogue who="Ken">It's not an issue of whether or not you've seen one! The point is whether or
-        not there's proper proof that they exist! </dialogue>
-    <dialogue who="Momo">Shut up! Anyway, how are things on your end?</dialogue>
-    <p on="sign">KEEP OUT </p><dialogue who="Ken">I have arrived. At the spiritual hotspot. Now,
-        I'll go and prove it right now… that there are no such things as ghosts!</dialogue>
-    <dialogue who="Momo">Hey, you aren't freaking out, are you? By the way, that spot is famous on
-        the 'net for something definitely being there.</dialogue>
-    <dialogue who="Ken">Too shy, shy boy, in this moment! </dialogue>
-    <dialogue who="Momo">They say speaking loudly is the most dangerous thing to do.</dialogue>
-    <dialogue who="Ken">Too shy, shy boy… </dialogue>
-    <dialogue who="Momo">On the 'net. </dialogue>
-    <dialogue who="Ken">You've been mentioning the 'net a lot. So have you seen a ghost, Miss
-        Ayase?</dialogue>
-    <dialogue who="Momo">Nope. </dialogue>
-    <dialogue who="Ken">What? How dare you talk so authoritatively earlier!</dialogue>
-    <dialogue who="Momo">My bad! </dialogue>
-    <dialogue who="Ken">Take back that attitude you've been giving me! It's absurd that you've never
-        seen a ghost but believe in them!</dialogue>
-    <dialogue who="Momo">It's not absurd. I told you my grandma's a spirit medium. I love my grandma
-        a lot since I don't have parents.</dialogue>
-    <dialogue who="Ken">Oh, I see. </dialogue>
-    <dialogue who="Momo">Why are you getting all meek and stuff? Get a load of this. My family is
-        seriously weird. I always had to perform a good luck ritual before stepping outside. I was
-        always forced to do it the entire way to school. And of course, I was the laughingstock of
-        all the boys. If I don't do it, Grandma got pissed. It was the pits. But the toughest part
-        of it all… was when the boy I liked made fun of me. I really hated my grandma. "Because of
-        that weird ritual, the boy I like hates me." I think I said something horrible like that to
-        Grandma. Since then, I didn't talk to Grandma until recently, and I stopped doing the
-        ritual. But you know, I get pissed when someone else makes fun of my family. That's when I
-        realized… I didn't hate the fact that the boy I liked didn't like me. I hated the fact that
-        the boy I liked made fun of my grandma. In reality, I loved both Grandma and her job as a
-        spirit medium, because it felt special. How she decided to take me in, and lovingly raised
-        me all by herself… I have faith in my grandma. That's why I believe in ghosts. So anyway,
-        why do you believe in aliens?</dialogue>
-    <dialogue who="Ken">That really doesn't matter, right? </dialogue>
-    <dialogue who="Momo">What's with that? You don't have any reasons? Do you need a reason to like
-        something? Well, you have a point. More like, Occult-kun, you sure talk bluntly over the
-        phone.</dialogue>
-    <dialogue who="Ken">I-Is that so? Miss Ayase, you're pretty easy to talk to.</dialogue>
+<episode title="That's How Love Starts, Ya Know!" n="1">
+    <location place="outsideSchool"><dialogue who="Momo">Huh?</dialogue>
+        <dialogue who="Bully A">I said, if you ain't lendin' me money, then no date today. Oh, but
+            I'd be okay if you finally put out instead. You'll pay for the love hotel,
+            though.</dialogue>
+        <dialogue who="Momo">You need to be punched! </dialogue>
+        <dialogue who="Bully A">Why you little… You're full of it! I've had enough of you! Yer broke
+            and ya ain't puttin' out! Get lost!</dialogue>
+        <dialogue who="Momo">Gimme a break, moron! Octopus! Squid! Tuna!</dialogue></location>
+    <location place="classroom">
+        <dialogue who="Muko">Totes funny! Seafood names aren't insults.</dialogue>
+        <dialogue who="Momo">Come on, comfort me! He was my first boyfriend.</dialogue>
+        <dialogue who="Muko">That's why I told you to not go for him. What was so good about him,
+            anyway?</dialogue>
+        <dialogue who="Momo">He looked like Ken Takakura. </dialogue>
+        <dialogue who="Muko">-Oh, there you go. -You're so annoying.</dialogue>
+        <dialogue who="Miko">-Oh, there you go. -You're so annoying.</dialogue>
+        <dialogue who="Momo">Nothing wrong with that! I like masculine guys like Ken
+            Takakura!</dialogue>
+        <dialogue who="Muko">"I am an awkward fellow, after all." Dudes like that are
+            extinct.</dialogue>
+        <dialogue who="Miko"> Dudes like that are extinct.</dialogue></location>
+    <location place="hallway"><dialogue who="Momo">What the hell. Will I not be able to meet another
+            Mr. Ken in my lifetime? Come on, someone comfort me! Such a cruel world.</dialogue>
+        <dialogue who="Extra">-Damn it! -You missed?</dialogue>
+        <dialogue who="Extra">-I did miss. -Don't look over here. Gross.</dialogue></location>
+    <location place="classroom">
+        <dialogue who="Extra">-We have this, too. -Nice.</dialogue>
+        <dialogue who="Extra">Put a magnet inside. </dialogue>
+        <dialogue who="Extra">This'll hurt, won't it? </dialogue>
+        <dialogue who="Momo">What are you reading there? </dialogue>
+        <dialogue who="Ken">Oh? Uh, um… </dialogue>
+        <p on="magazine">BIRTH OF THE AEROSPACE SELF-DEFENSE FORCE GUARDING OUTER SPACE!!</p>
+    </location>
+    <location place="hallway"><dialogue who="Momo">How lame. Do only scum live in this world? Man,
+            I've had enough. Where can I relieve all this stress?</dialogue>
+        <dialogue who="Ken"> Miss Momo Ayase! -I know you're in love!</dialogue>
+        <dialogue who="Momo">-Huh? </dialogue>
+        <dialogue who="Ken">I know you're in love! </dialogue>
+        <dialogue who="Momo">How many times you gonna say that? </dialogue>
+        <dialogue who="Ken">Someone like Miss Ayase talking to me? That's gotta be the only
+            reason!</dialogue>
+        <dialogue who="Momo"> Maybe you got the wrong idea? It's not like I wanna get chummy with
+            you or anything. Forget all that earlier.</dialogue>
+        <dialogue who="Ken">This is what I'm talking about! </dialogue>
+        <p on="magazine">The President has already gone to Mars! What is the entirety of Project
+            Pegasus?!</p>
+        <dialogue who="Momo">Huh? What? </dialogue> You're a fan of the occult! <dialogue who="Momo"
+            >Oh, I don't believe in UFOs or aliens or stuff like that.</dialogue>
+        <dialogue who="Ken">I'm not talking about a UFO, but a UAP! Unidentified Aerial
+            Phenomena!</dialogue>
+        <dialogue who="Momo">Hey, you're being a pest. </dialogue>
+        <dialogue who="Ken">The U.S. military has officially acknowledged the existence of UAPs and
+            reformed the Space Force! Japan has also newly created an Aerospace Self-Defense Force!
+            Any way you look at it, they're getting ready for Space Wars!</dialogue>
+        <dialogue who="Momo">Can I go now? </dialogue>
+        <dialogue who="Ken">What? No, wait! This has the newest image of Nessie, too. Here! It also
+            talks about Lieutenant Colonel Jim Channon and Skinwalker Ranch!</dialogue>
+        <dialogue who="Momo">Shut up! I just got dumped so I don't want any of this. How you push
+            stuff at me is so typical of otaku and really annoying! That's why you have no friends!
+            Don't talk to me like you know me. Sorry, that was a bit much.</dialogue>
+        <p on="magazine">YOUR TRUE POWERS AND POTENTIAL HAVE YET TO AWAKEN…</p>
+        <dialogue who="Momo"> Here. I don't believe in aliens. But I do believe in
+            ghosts.</dialogue>
+        <dialogue who="Ken">Oh no, there's no such thing as ghosts. </dialogue>
+        <dialogue who="Momo">I matched the conversation topic to yours, but you outright deny that?!
+            Don't you mock the occult! Just so you know, my grandma is a spirit medium.</dialogue>
+        <dialogue who="Ken">What? </dialogue>
+        <dialogue who="Momo">Have you ever seen an exorcism? It's really wicked! The possessed
+            person goes into convulsions! You can go into convulsions from illness, too.</dialogue>
+        <dialogue who="Ken">It's not proof that ghosts are out there. </dialogue>
+        <dialogue who="Momo">Then have you ever had an alien let you ride a UFO?!</dialogue>
+        <dialogue who="Ken">Your logic is jumping too far! Are you an idiot?!</dialogue>
+        <dialogue who="Muko">Huh? She gave up on Ken Takakura and went after an otaku?</dialogue>
+        <dialogue who="Miko">Look. It's like she doesn't care what other people would
+            think.</dialogue>
+        <dialogue who="Muko">Can't say I hate it. </dialogue>
+        <dialogue who="Momo">Then let's have a contest, dammit! If there really are ghosts, you'll
+            be serving me as a gofer!</dialogue>
+        <dialogue who="Ken">I'll show you UFOs, I mean, UAPs! If you're able to see one, M-Miss
+            Ayase, you'll be my gofer instead!</dialogue></location>
+    <location place="hospital">
+        <p on="sign">NAGI GENERAL HOSPITAL</p>
+        <dialogue who="Momo">What is this place? It's way too scary! What part of this is a UFO
+            hotspot? </dialogue>
+        <dialogue who="Ken">They call that Nagi Hospital a sanctuary for UFOs! If you call for a UFO
+            on the roof, you will experience an Abduction!</dialogue>
+        <dialogue who="Momo">What's an Abduction? </dialogue>
+        <dialogue who="Ken">That's when an alien kidnaps you and experiments with your
+            body.</dialogue>
+        <dialogue who="Momo"> Wait, hold on! Have you been experimented on before?!</dialogue>
+        <dialogue who="Ken">There is a chance that I have! </dialogue>
+        <dialogue who="Momo">Huh? </dialogue>
+        <dialogue who="Ken">Many people who experience an Abduction have their memories
+            erased.</dialogue>
+        <dialogue who="Momo">Hey, you. You've never seen a UFO before, have you?</dialogue>
+        <dialogue who="Ken">Do you know about regressive hypnosis? </dialogue>
+        <dialogue who="Momo">Don't change the subject on me. </dialogue>
+        <dialogue who="Ken">It's not an issue of whether or not you've seen one! The point is
+            whether or not there's proper proof that they exist! </dialogue>
+        <dialogue who="Momo">Shut up! Anyway, how are things on your end?</dialogue></location>
+    <location place="tunnel">
+        <p on="sign">KEEP OUT </p><dialogue who="Ken">I have arrived. At the spiritual hotspot. Now,
+            I'll go and prove it right now… that there are no such things as ghosts!</dialogue>
+        <dialogue who="Momo">Hey, you aren't freaking out, are you? By the way, that spot is famous
+            on the 'net for something definitely being there.</dialogue>
+        <dialogue who="Ken">Too shy, shy boy, in this moment! </dialogue>
+        <dialogue who="Momo">They say speaking loudly is the most dangerous thing to do.</dialogue>
+        <dialogue who="Ken">Too shy, shy boy… </dialogue>
+        <dialogue who="Momo">On the 'net. </dialogue>
+        <dialogue who="Ken">You've been mentioning the 'net a lot. So have you seen a ghost, Miss
+            Ayase?</dialogue></location>
+    <location place="hospital">
+        <dialogue who="Momo">Nope. </dialogue>
+        <dialogue who="Ken">What? How dare you talk so authoritatively earlier!</dialogue>
+        <dialogue who="Momo">My bad! </dialogue>
+        <dialogue who="Ken">Take back that attitude you've been giving me! It's absurd that you've
+            never seen a ghost but believe in them!</dialogue>
+        <dialogue who="Momo">It's not absurd. I told you my grandma's a spirit medium. I love my
+            grandma a lot since I don't have parents.</dialogue>
+        <dialogue who="Ken">Oh, I see. </dialogue>
+        <dialogue who="Momo">Why are you getting all meek and stuff? Get a load of this. My family
+            is seriously weird.</dialogue></location><location place="school"><dialogue who="Momo">
+            I always had to perform a good luck ritual before stepping outside. I was always forced
+            to do it the entire way to school. And of course, I was the laughingstock of all the
+            boys. If I don't do it, Grandma got pissed. It was the pits. But the toughest part of it
+            all… was when the boy I liked made fun of me. I really hated my grandma. "Because of
+            that weird ritual, the boy I like hates me." I think I said something horrible like that
+            to Grandma.</dialogue></location><location place="hospital"><dialogue who="Momo"> Since
+            then, I didn't talk to Grandma until recently, and I stopped doing the ritual. But you
+            know, I get pissed when someone else makes fun of my family. That's when I realized…
+        </dialogue></location><location place="ayaseHome"><dialogue who="Momo">I didn't hate the
+            fact that the boy I liked didn't like me. I hated the fact that the boy I liked made fun
+            of my grandma. In reality, I loved both Grandma and her job as a spirit medium, because
+            it felt special. How she decided to take me in, and lovingly raised me all by herself… I
+            have faith in my grandma.</dialogue></location>
+    <location place="hospital">
+        <dialogue who="Momo"> That's why I believe in ghosts. So anyway, why do you believe in
+            aliens?</dialogue></location>
+    <location place="tunnel">
+        <dialogue who="Ken">That really doesn't matter, right? </dialogue>
+    </location>
+    <location place="hospital">
+        <dialogue who="Momo">What's with that? You don't have any reasons? Do you need a reason to
+            like something? Well, you have a point. More like, Occult-kun, you sure talk bluntly
+            over the phone.</dialogue></location>
+<location place="tunnel">    <dialogue who="Ken">I-Is that so? Miss Ayase, you're pretty easy to talk to.</dialogue>
     <dialogue who="turboGranny">I'll let you suckle my teats, so… lemme gobble that
         weenie.</dialogue>
     <dialogue who="Ken">Ghost!</dialogue>
@@ -139,8 +159,8 @@
         granny!</dialogue>
     <dialogue who="Momo"> They say you can't let her outrun you at any cost! If you lose a race
         against Turbo Granny, you'll be cursed! Hey, Occult-kun! Are you listening? Hello? Answer
-        me! You're kidding me, right? I'll head over there right now! Just hang on! What are those
-        things? Seriously, cut it out.</dialogue>
+        me! You're kidding me, right?</dialogue></location><location place="hospital"><dialogue who="Momo"> I'll head over there right now! Just hang on! What are those
+        things? Seriously, cut it out.</dialogue></location>
     <dialogue who="Rokuro">Hello, woman person. We are Serpoians. We are called that because we come
         from the planet Serpo.</dialogue>
     <dialogue who="Momo">Aliens? </dialogue>

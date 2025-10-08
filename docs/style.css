@@ -11,10 +11,12 @@ body {
 a {
 	cursor: url('support/lcursor.png'), auto;
 }
+
 .note {
 	background-color: #bfff00;
 	text-align: center;
 }
+
 .alien ::selection {
 	background: #63ffc8;
 	color: #0c90b5;
@@ -27,12 +29,11 @@ a {
 	text-shadow: none;
 }
 
-< !-- image settings
-.left img{
+< !-- image settings .left img {
 	float: left;
 	padding-right: 2em;
 	min-width: 15em;
-	
+
 }
 
 .right {
@@ -51,27 +52,44 @@ a {
 .sicon {
 	width: 2em;
 }
- <!-- image animations 
 
-.shake {
-	  animation-play-state: paused;
+.mdis {
+	float: left;
+	margin-left: 1.5em;
+	margin-top: 1.5em;
+	padding-right: 2em;
+	height: 30em;
+	position: absolute;
 }
+
+.backing {
+	float: left;
+	padding-right: 2em;
+	height: 33em;
+
+}
+
+< !-- image animations .shake {
+	animation-play-state: paused;
+}
+
 .shake:active {
-  -webkit-animation-name: cssAnimation;
-  -webkit-animation-duration: 1s;
-  -webkit-animation-iteration-count: 4;
-  -webkit-animation-timing-function: ease-in-out;
-    animation-direction: alternate;
+	-webkit-animation-name: cssAnimation;
+	-webkit-animation-duration: 0.25s;
+	-webkit-animation-iteration-count: 8;
+	-webkit-animation-timing-function: ease-in-out;
+	animation-direction: alternate;
 
 }
 
 @-webkit-keyframes cssAnimation {
-  from {
-    -webkit-transform: rotate(0deg) scale(1) skew(0deg);
-  }
-  to {
-    -webkit-transform: rotate(2deg) scale(1.05) skew(0deg);
-  }
+	from {
+		-webkit-transform: rotate(0deg) scale(1) skew(0deg) translateX(0);
+	}
+
+	to {
+		-webkit-transform: rotate(0.5deg) scale(1.04) skew(0.5deg) translateX(5px);
+	}
 }
 
 < !-- navbar settings .nav figure {
@@ -123,6 +141,14 @@ a {
 
 .textBlock h1 {
 	font-size: 36pt;
+	font-weight: 1000;
+	background: -webkit-linear-gradient(#ec1921, #710d0d);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.textBlock h2 {
+	font-size: 30pt;
 	font-weight: 1000;
 	background: -webkit-linear-gradient(#ec1921, #710d0d);
 	-webkit-background-clip: text;

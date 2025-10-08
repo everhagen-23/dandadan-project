@@ -17,6 +17,21 @@
     </nav>
     <!-- NAVBAR END -->
     <figure class="textBlock">
-        <h1 style="text-align: center;">Oops! We Don't Have That Page Yet!</h1> <img src="support/f3.png"
-            class="center">
+        <h1 style="text-align: center;">Oops! We Don't Have That Page Yet!</h1>
+        <div class="shake"><a onclick="myAudioFunction('intro');"><img src="support/f1.png" class="center" height="550em"></a></div>
+        </a>
+        </div>
+        <script>
+            var aAudio = new Audio('support/explanation.mp3');
+            var bAudio = new Audio('support/hi.mp3');
+
+            function myAudioFunction(letter) {
+                if (letter == 'explanation') {
+                    aAudio.play();
+                }
+                if (letter == 'intro') {
+                    bAudio.play();
+                }
+            }
+        </script>
         <figure>

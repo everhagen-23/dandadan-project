@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>DanDaDan Analysis</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="icon" type="icon" href="support/sicon.png" />
+
+<body class="yokai">
+    <!-- NAVBAR START -->
+    <nav class="nav">
+        <ul>
+            <li><a href="index.html"><img src="support/sHome.png"></a></li>
+            <li><a href="data.html"><img src="support/sData.png"></a></li>
+            <li><a href="analysis.html"><img src="support/sAnalysis.png"></a></li>
+        </ul>
+    </nav>
+    <!-- NAVBAR END -->
+    <figure class="textBlock">
+        <h2>WHEN READING:</h2>
+        <p><img src="support/readingGuide.png" class="right" width="5em">Manga is a little different from an American
+            comic book when it comes to how you read it. Instead of going from left to right it is read right to left.
+        </p>
+    </figure>
+    <figure class="textBlock">
+        <section><img src="media/mangaPanels/1-1.jpg" class="mdis" /><img src="support/mdbg.png" class="backing">
+            <p>hiii this is a work in progress i am just working on getting the frames / layout working</p>
+        </section>
+    </figure>
+    <script>
+        var aAudio = new Audio('support/explanation.mp3');
+        var bAudio = new Audio('support/hi.mp3');
+
+        function myAudioFunction(letter) {
+            if (letter == 'explanation') {
+                aAudio.play();
+            }
+            if (letter == 'intro') {
+                bAudio.play();
+            }
+        }
+    </script>
+</body>
+
+</html>

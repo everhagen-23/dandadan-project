@@ -1,10 +1,10 @@
 start = episode
-episode = element episode {title, n, mixed{dialogue|p}*}
+episode = element episode {title, n, location+}
 title = attribute title {text}
 n = attribute n {xsd:integer}
 dialogue = element dialogue {who, text}
 p = element p {on,text}
 who = attribute who {"Momo"|"Ken"|"Seiko"|"turboGranny"|"yokaiKen"|"cursedKen"|"Rokuro"|"Muko"|"Miko"|"kidMomo"|"Bully A"|"Extra"}
 on = attribute on {"magazine"|"sign"}
-scene= element scene {location, mixed{dialogue|p}*}
-location= attribute location {"school"|"tunnel"|"spaceship"}
+location= element location {place, mixed{dialogue|p}*}
+place= attribute place {"school"|"classroom"|"hallway"|"outsideSchool"|"hospital"|"tunnel"|"spaceship"|"ayaseHome"}
