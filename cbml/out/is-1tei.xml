@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="s1e1" n="1">That's How Love Starts, Ya Know!</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="scene">
+            <stage type="location" place="outsideSchool">
+               <sp who="BullyA">
+                  <speaker>BullyA</speaker>
+                  <p>LIKE I SAID, IF YA AIN'T GONNA LEND ME THE MONEY...</p>
+               </sp>
+               <sp who="BullyA">
+                  <speaker>BullyA</speaker>
+                  <p>...THEN TODAY'S DATE IS OFF.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>HAH?</p>
+               </sp>
+               <sp who="BullyA">
+                  <speaker>BullyA</speaker>
+                  <p>ALTHOUGH... </p>
+               </sp>
+               <sp who="BullyA">
+                  <speaker>BullyA</speaker>
+                  <p>...IF YOU'RE REASONABLE AND PUT OUT INSTEAD, THAT'S COOL TOO.</p>
+               </sp>
+               <sp who="BullyA">
+                  <speaker>BullyA</speaker>
+                  <p>LOVE HOTEL'S ON YOU THOUGH.</p>
+               </sp>
+               <sp who="BullyA">
+                  <speaker>BullyA</speaker>
+                  <p>WHOA! </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>TAKE THIS!</p>
+               </sp>
+               <sp who="BullyA">
+                  <speaker>BullyA</speaker>
+                  <p>YOU LITTLE-!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>URF!</p>
+               </sp>
+               <sp who="BullyA">
+                  <speaker>BullyA</speaker>
+                  <p>GET OVER YERSELF!</p>
+               </sp>
+               <sp who="BullyA">
+                  <speaker>BullyA</speaker>
+                  <p>I'M DONE MESSIN' WITH YOU!</p>
+               </sp>
+               <sp who="BullyA">
+                  <speaker>BullyA</speaker>
+                  <p>YER BROKE, AND YOU WON'T PUT OUT! LIKE I'D GIVE A SHIT ABOUT YOU!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>THAT'S NOT EVEN FUNNY! MORON! FISH BRAIN!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>SQUID! OCTOPUS!</p>
+               </sp>
+            </stage>
+            <stage type="location" place="classroom">
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>THAT'S HILAR, GURL!</p>
+               </sp>
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>CALLING HIM SEAFOOD ISN'T BADMOUTHING HIM!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>YOU'RE SUPPOSED TO BE COMFORTING MEEE!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>HE WAS MY FIRST BOYFRIEND!</p>
+               </sp>
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>I TOLD YOU NOТ TO GET INVOLVED WITH THAT GUY</p>
+               </sp>
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>CAN YOU EVEN NAME ONE GOOD THING ABOUT HIM?</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>HE LOOKED LIKE KEN TAKAKURA.</p>
+               </sp>
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>UGH, HERE WE GO AGAIN.</p>
+               </sp>
+               <sp who="Miko">
+                  <speaker>Miko</speaker>
+                  <p>UGH, HERE WE GO AGAIN.</p>
+               </sp>
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>GOD, YOU MAKE ME SICK.</p>
+               </sp>
+               <sp who="Miko">
+                  <speaker>Miko</speaker>
+                  <p>GOD, YOU MAKE ME SICK.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WHAT'S WRONG WITH THAT?! I LIKE HARD-BOILED TOUGH GUYS LIKE KEN TAKAKURA!</p>
+               </sp>
+               <sp who="cKen">
+                  <speaker>Celebrity Ken</speaker>
+                  <p>I AM AN AWKWARD FELLOW, AFTER ALL.</p>
+               </sp>
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>DUDES LIKE THAT ARE EXTINCT.</p>
+               </sp>
+               <sp who="Miko">
+                  <speaker>Miko</speaker>
+                  <p>DUDES LIKE THAT ARE EXTINCT.</p>
+               </sp>
+            </stage>
+         </div>
+         <div type="scene">
+            <stage type="location" place="hallway">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>IT'S A DAMN SHAME. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WILL I NEVER MEET ANOTHER KEN?</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I MEAN, COME ON... SOMEBODY, ANYBODY, CONSOLE ME!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>IT'S A HARDKNOCK LIFE...</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>!</p>
+               </sp>
+            </stage>
+            <stage type="location" place="classroom">
+               <sp who="Extra">
+                  <speaker>Classmate</speaker>
+                  <p>QUIT LOOKING AT ME. YOU'RE CREEPING ME OUT.</p>
+               </sp>
+               <sp who="Extra">
+                  <speaker>Classmate</speaker>
+                  <p>TRY ONE WITH A MAGNEТ IN IT. </p>
+               </sp>
+               <sp who="Extra">
+                  <speaker>Classmate</speaker>
+                  <p>DAMN, THIS ONE'S GONNA HURT!</p>
+               </sp>
+               <sp who="Extra">
+                  <speaker>Classmate</speaker>
+                  <p>!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WHAT'RE YOU READING THERE</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>HUH? UMM, WELL, IT'S... </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>UGH, LAME!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>IS THE WORLD JUST FULL OF SCUMBAGS? </p>
+               </sp></stage>
+            <stage type="location" place="hallway">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>GAH! I HATE THIS!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WHAT CAN I DO TO UNLEASH THIS STRESS?!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>MISS MOMO AYASE!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I KNOW WHAT YOU'RE INTO.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>HAH?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I KNOW WHAT YOU'RE INTO.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>HOW MANY TIMES ARE YOU GONNA REPEAT YOURSELF?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>FOR A PERSON LIKE YOU, MISS AYASE, TO COME TALK TO A FELLOw LIKE ME?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>THERE CAN BE ONLY ONE EXPLANATION!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I THINK YOU'VE GOT THЕ WRONG IDEA.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I'M NOТ TRYIN' TO BE YOUR FRIEND..</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>JUST FORGET WHAT HAPPENED BACK THERE.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>THIS IS WHAT I'M TALKING ABOUT!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>PRESIDENT ОВАМА HAS ALREADY BEEN TO MARS!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>THE WHOLE OF PROJECТ PEGASUS REVEALED!</p>
+               </sp>
+               <caption source="magazine">RIGHTS NEGOTIATIONS FOR REPTILIANS MARS, AND THE
+                  EARTH!</caption>
+               <caption source="magazine">WHAT IS THE RELATIONSHIP BETWEEN THE ILLUMINATI ANDTHE
+                  REPTILIANS?!</caption>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>HUH? SAY WHAT?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>YOU'RE INTERESTED IN THE PARANORMAL, AREN'T YOU?!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>NAH.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I DON'T BELIEVE IN UFOS OR ALIENS.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I'M TALKING ABOUT UAPS, NOT UFOS!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>UNIDENTIFIED AERIAL PHENOMENA!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>THE AMERICAN MILITARY HAS OFFICIALLY ACKNOWLEDGED THE EXISTENCE OF UAPS AND HAS
+                     BEEN REORGANIZED AS THE SPACE FORCE!</p>
+               </sp>
+               <caption source="magazine">KOKU-JIEITAI *SPACE OPERATIONS SQUADRONS*</caption>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>WHILE JAPAN HAS FOUNDED THE JAPAN AIR AND SPAСE SELF-DEFENSE FORCE!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>ANY WAY YOU LOOK AT IT, THEY'RE PREPARING FOR A SPACE WAR!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>CAN I GO NOW?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>HUH?! NO! WAIT...</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>THEY'VE GOT THЕ LATEST PICTURES OF NESSIE IN HERE!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>AND STUFF ABOUT LIEUTENANT COLONEL JIM CHANNON!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>AND SKINWALKER RANCH!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WOULD YOU SHUT THE HELL UP! I'M DEALING WITH A BROKEN HEART HERE!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I'M NOT IN THE MOOD FOR THIS NONSENSE! YOU'RE REALLY PUSHIN' IT WITH THAT NERD
+                     CRAP! </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>THIS IS WHY YOU DON'T HAVE ANY FRIENDS!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>DON'T TALK TO ME LIKE WE'RE FRIENDS.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>SORRY. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I WENT TOO FAR/.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>LOOK. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I DON'T BELIEVE IN ALIENS...</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>...BUT I DO BELIEVE IN SPIRITS.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>NO WAY. THERE'S NO SUCH THING AS SPIRITS. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>HAH?!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I WENT ALONG WITH YOUR NONSENSE, AND YOU HAVE THE NERVE TO JUST SHUT ME
+                     DOWN?!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>PLEASE DO NOT BELITTLE THE PARANORMAL!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>LEMME TELL YA SOMETHIN'. MY GRANDMA'S A SPIRIT MEDIUM!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>A WHAT?!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>HAVE YOU EVER SEEN AN EXORCISM?! IT'S SOО0 SCARY!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>THE POSSESSED PERSON HAS FITS AND STUFF!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>ILLNESSES CAN ALSO CAUSE FITS. </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>THAT'S NO PROOF THAT SPIRITS EXIST.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>OH, YEAН? WELL, HAVE YOU EVER HAD AN ALIEN OFFER YOU A RIDE IN ITS UFO?!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>YOUR ARGUMENTS ARE ALL OVER THE PLACE!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>DON'T BE AN IDIOT!</p>
+               </sp>
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>WHAT THE...? </p>
+               </sp>
+               <sp who="Muko">
+                  <speaker>Muko</speaker>
+                  <p>SEEMS SHE'S GIVEN UP ON KEN TAKAKURA FOR THE GEEK TУРЕ.</p>
+               </sp>
+               <sp who="Miko">
+                  <speaker>Miko</speaker>
+                  <p>I DON'T THINK SHE CARES HOW SHE LOOKS EITHER.</p>
+               </sp>
+               <sp who="Miko">
+                  <speaker>Miko</speaker>
+                  <p>CAN'T SAY I HATE IT.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>ALL RIGHT, TWERP. LET'S MAKE IT A CHALLENGE, THEN!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>IF I CAN PROVE SPIRITS ARE REAL...</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>...THEN YOU HAVE TO SERVE AS MY GOFER!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>FINE. THEN I'LL SHOW YOU SOME UFOS!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I MEAN, UAPS!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>AND WHEN YOU FINALLY SEE ONE...</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>UM! THEN YOU'LL SERVE AS MY GOFER, MISS AYASE!</p>
+               </sp>
+            </stage>
+         </div>
+         <div type="scene">
+            <stage type="location">
+               <caption source="sign">MEDICAL SCHOOL HOSPITAL</caption>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WHAT IS THIS PLACE?! IT'S SCARING THE CRAP OUTTA ME!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>AND YOU'RE TELLING ME THIS IS A UFO HOTSPOТ?!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>THEY SAY THE NAGI HOSPITAL IS PRACTICALLY THE HOLY LAND FOR UFOS!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>IF YOU CALL FOR A UFO FROM THE ROOF...</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>...YOU'LL DEFINITELY BE ABDUCTED!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WHAT DOES THAT EVEN MEEEAN?!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>IT MEANS YOU GET KIDNAPPED BY ALIENS AND THEY USE YOU FOR HUMAN
+                     EXPERIMENTATION!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WHOA! HOLD ON! HAVE YOU BEEN EXPERIMENTED ON?!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>IT'S VERY POSSIBLE! </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>HUH?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>MOST OF THE PEOPLE WHO ARE ABDUCTED HAVE THEIR MEMORIES WIPED.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>LISTEN, YOU.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>YOU'VE NEVER ACTUALLY SEEN A UFO, HAVE YOU?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>...</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>HAVE YOU HEARD OF REGRESSIVE HYPNOSIS?</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>QUIT DODGING THE QUESTION!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>WHETHER I'VE SEEN ONE OR NOT IS INCONSEQUENTIAL!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>THE QUESTION IS WHETHER OR NOT THE ARGUMENT IS SOLID! </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>JUST SHUT UP ALREADY.</p>
+               </sp></stage>
+            <stage type="location" place="tunnel">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>HOW ARE THINGS GOING ON YOUR END?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I HAVE ARRIVED... </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>...AT THE HAUNTED LOCATION.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>NOW, THEN!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>SHALL I PROVE TO YOU ONCE AND FOR ALL...</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>...THAT THERE IS NO SUCH THING AS GHOSTS! </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>HEY, YOU AREN'T ACTUALLY SCARED, ARE YOU?</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>BY THE WAY, THEY SAY YOU ARE GUARANTEED TO SEE SOMETHING THERE. IT'S FAMOUS ON
+                     THE NET.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>YIKES!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>TOO SHY SHY BOY!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>IN THIS MOMENT!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>THEY SAY A LOUD VOICE IS THE MOST DANGEROUS THING OF ALL.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p/>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>ON THE NET.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>TOO SHY SHY BOY!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>WAIT, WHY DO YOU KEEР SAYING "ON THE NET"?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>HAVE YOU SEEN A SPIRIT, MISS AYASE?</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>NOPE.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>WHAT?!</p>
+               </sp>
+            </stage>
+            <stage type="location" place="hospital">
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>YOU HAD SOME NERVE TALKING SO BIG BEFORE!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>SORRY!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>TAKE BACK ALL THAT STUFF YOU SAID!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>YOU'VE NEVER EVEN SEEN A SPIRIT, BUT YOU STILL BELIEVE IN THEM-THAT'S JUST
+                     BIZARRE!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>IT'S NOT BIZARRE!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I TOLD YOU, MY GRANDMA'S A SPIRIT MEDIUM.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>AND WE WERE, LIKE, REAL CLOSE...</p>
+               </sp></stage>
+            <stage type="location" place="tunnel">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>...CUZ I'VE GOT NO PARENTS.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>OH...I... I SEE...</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>NOW YOU'RE ALL TIMID?</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I NEED TO TELL YOU SOMETHING.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>MY FAMILY IS, LIKE, SUPER WEIRD.</p>
+               </sp></stage>
+            <stage type="location" place="flashback">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WHENEVER I USED TO GO OUTSIDE, I'D HAVE TO SWEAR TO DO A CERTAIN RITUAL FOR
+                     GOOD LUCK.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>MY GRANDMA MADE ME DO IT ALL THE WAY TO SCHOOL TOO.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>AND OF COURSE THE BOYS WOULD LAUGH AT ME.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>BUT IF I DIDN'T DO IT, MY GRANDMA WOULD GET ANGRY, AND THEN I'D FEEL PRETTY BAD
+                     ABOUT IT.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WORST OF ALL, THOUGH...</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>...WAS WHEN THE BOY I LIKED MADE FUN OF ME.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I REALLY HATED MY GRANDMА FOR THAT.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>"BECAUSE OF THAT RITUAL, THE BOY I LIKE HATES ME NOW!" THAT'S WHAT I THOUGHT.
+                  </p>
+               </sp></stage>
+            <stage type="location" place="hospital">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I SAID SOME TERRIBLE THINGS.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>AND TO MY OWN GRANDМА.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WE STOPPED TALKING FOR A LONG TIME.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>AND I STOPPED DOING THE RITUAL.</p>
+               </sp></stage>
+            <stage type="location" place="tunnel">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>BUT THE WEIRD THING IS, WHEN OTHER PEOPLE MAKE FUN OF MY FAMILY... </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>...IT REALLY PISSES ME OFF.</p>
+               </sp></stage>
+            <stage type="location" place="flashback">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>AND THEN I REALIZED SOMETHING.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>IT WASN'T THAT THE BOY I LIKED DIDN'T LIKE ME.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WHAT I REALLY HATED WAS THAT THE BOY I LIKED...</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>...MADE FUN OF MY GRANDМА.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>THE TRUTH IS, MY GRANDMА... </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>... AND HER WORK AS A MEDIUM...</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>...FELT SPECIAL TO ME, AND I LOVED THAT.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>SO NO, I'VE NEVER SEEN A GHOST.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>AND I DON'T KNOW IF MY GRANDMA'S ABILITY TO SENSE THE SUPERNATURAL IS THE REAL
+                     THING OR NOT.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>BUT SHE TOOK ME INTO HER CARE...</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>... AND I WAS RAISED BY THE HANDS OF THAT ONE WOMAN.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>AND THAT GRANDMА...</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>... 15 SOMEONE I BELIEVE IN.</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>THAT'S WHY...</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>...I BELIEVE IN SPIRITS.</p>
+               </sp></stage>
+            <stage type="location" place="tunnel">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>SO, LIKE, WHY DO YOU BELIEVE IN ALIENS?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>HUH?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>WELL... DOES IT REALLY MATTER?</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>SERIOUSLY? YOU REALLY DON'T HAVE A REASON?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>DO YOU NEED TO HAVE A REASON TO LIKE SOMETHING?!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>R-REALLY? I DO?</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I GUESS YOU'RE EASY TO TALK TO, MISS AYASE...</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>!</p>
+               </sp></stage>
+         </div> <div type="scene">
+            <stage type="location" place="tunnel">
+               <sp who="turboGranny">
+                  <speaker>Turbo Granny</speaker>
+                  <p>I'LL LET YOU SUCKLE MY TEATS...</p>
+               </sp>
+               <sp who="turboGranny">
+                  <speaker>Turbo Granny</speaker>
+                  <p>...F YOU LET ME GOBBLE YOUR SCHLONG.</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>GHOOOST!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WAIT!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WHATEVER YOU DO, DON'T RUN!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>AAAAAAA</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>NO WAY!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>IT CAN'T BE!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>IT'S JUST AN OLD LADY!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>THAT'S PROBABLY IT! </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>JUST AN OLD LADY!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>OCCU...KUN...</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>STOP RIGHT NOW</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>THE NET SAYS THAT'S SUPER DANGEROUS!</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>HUFF</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>HUFF</p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>I JUST MISUNDERSTOOD! </p>
+               </sp>
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>MERELY A CHANCE ENCOUNTER WITH A HORNY OLD LADY!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>DO NOT LET HER OVERTAKE YOU, NO MATTER WHAT!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>IF YOU LOSE THE RACE AGAINST TURBO GRANNY...</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>...SHE'LL PUT A CURSE ON YOU!</p>
+               </sp></stage>
+            <stage type="location" place="hospital">
+               <sp who="Ken">
+                  <speaker>Ken</speaker>
+                  <p>AAH!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>HEY!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>OCCULT-KUN, CAN YOU HEAR ME?!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>HELLO?! ANSWER ME!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>THIS CAN'T BE HAPPENING!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I'M ON MY WAY!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>I'M ON MY WAY!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>!</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WHAT THE HECK ARE YOU?</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>IF YOU COULD JUST, LIKE, STOP NOW...</p>
+               </sp></stage>
+            <stage type="location" place="spaceship">
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>WHAT IN THE...?</p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>GYAH!</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>HELLO TO YOU, WOMAN PERSON.</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>WE ARE SERPOIANS.</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>WE ARE CALLED THAT BECAUSE WE COME FROM THE PLANET SERPO.</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p/>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>YOU'RE ALIENS?!</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>YOUR THINGS ARE BEING HANDLED WITH CARE.</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>THEY'RE TORN TО PIECES! YOU OWE ME COMPENSATION!</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>AND I WANNA LEAVE NOW!</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>COULD YOU LET ME OUTTA THIS THING?!</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>OUR SPECIES HAS ONLY MALES.</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>THEREFORE, WE INCREASE OUR NUMBERS THROUGH CLONING TECHNOLOGY. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>ARE YOU EVEN LISTENING TO ME?!</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>HOWEVER, WHEN EVERY INDIVIDUAL IS IDENTICAL, EVOLUTION OF THE SPECIES DOES NOT
+                     OCCUR... </p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>AS A RESULT, CONFLICT AND EMOTIONS SUCH AS JOY, ANGER, GRIEF, AND PLEASURE HAVE
+                     BEEN ERADICATED.</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>AND SO, IN ORDER FOR US TO REACQUIRE REPRODUCTIVE FUNCTIONS...</p>
+               </sp>
+               <sp who="Rokuro">
+                  <speaker>Rokuro</speaker>
+                  <p>... WE WISH TO HAVE YOUR KIND'S BANANA ORGANS. </p>
+               </sp>
+               <sp who="Momo">
+                  <speaker>Momo</speaker>
+                  <p>SAY WHAT?</p>
+               </sp>
+            
+            </stage>
+         </div>
+      </body>
+   </text>
+</TEI>
