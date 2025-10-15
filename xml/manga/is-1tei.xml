@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
@@ -23,1025 +23,1025 @@
                <cbml:balloon type="speech" who="BullyA">
                   <p>LIKE I SAID, IF YA AIN'T GONNA LEND ME THE MONEY...</p>
                </cbml:balloon>
-               <sp who="BullyA">
-                  <speaker>BullyA</speaker>
+               <cbml:balloon type="speech" who="BullyA">
+                  
                   <p>...THEN TODAY'S DATE IS OFF.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>HAH?</p>
-               </sp>
-               <sp who="BullyA">
-                  <speaker>BullyA</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="BullyA">
+                  
                   <p>ALTHOUGH... </p>
-               </sp>
-               <sp who="BullyA">
-                  <speaker>BullyA</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="BullyA">
+                  
                   <p>...IF YOU'RE REASONABLE AND PUT OUT INSTEAD, THAT'S COOL TOO.</p>
-               </sp>
-               <sp who="BullyA">
-                  <speaker>BullyA</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="BullyA">
+                  
                   <p>LOVE HOTEL'S ON YOU THOUGH.</p>
-               </sp>
+               </cbml:balloon>
                <move who="Momo" where="BullyA" type="kick" style="physical"/>
-               <sp who="BullyA">
-                  <speaker>BullyA</speaker>
+               <cbml:balloon type="speech" who="BullyA">
+                  
                   <p>WHOA! </p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>TAKE THIS!</p>
-               </sp>
-               <sp who="BullyA">
-                  <speaker>BullyA</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="BullyA">
+                  
                   <p>YOU LITTLE-!</p>
-               </sp>
+               </cbml:balloon>
                <move who="BullyA" where="Momo" type="kick" style="physical"/>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>URF!</p>
-               </sp>
-               <sp who="BullyA">
-                  <speaker>BullyA</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="BullyA">
+                  
                   <p>GET OVER YERSELF!</p>
-               </sp>
-               <sp who="BullyA">
-                  <speaker>BullyA</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="BullyA">
+                  
                   <p>I'M DONE MESSIN' WITH YOU!</p>
-               </sp>
-               <sp who="BullyA">
-                  <speaker>BullyA</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="BullyA">
+                  
                   <p>YER BROKE, AND YOU WON'T PUT OUT! LIKE I'D GIVE A SHIT ABOUT YOU!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>THAT'S NOT EVEN FUNNY! MORON! FISH BRAIN!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>SQUID! OCTOPUS!</p>
-               </sp>
+               </cbml:balloon>
             </stage>
             <stage type="location" place="classroom">
-               <sp who="Muko">
-                  <speaker>Muko</speaker>
+               <cbml:balloon type="speech" who="Muko">
+                  
                   <p>THAT'S HILAR, GURL!</p>
-               </sp>
-               <sp who="Muko">
-                  <speaker>Muko</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Muko">
+                  
                   <p>CALLING HIM SEAFOOD ISN'T BADMOUTHING HIM!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>YOU'RE SUPPOSED TO BE COMFORTING MEEE!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>HE WAS MY FIRST BOYFRIEND!</p>
-               </sp>
-               <sp who="Muko">
-                  <speaker>Muko</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Muko">
+                  
                   <p>I TOLD YOU NOТ TO GET INVOLVED WITH THAT GUY</p>
-               </sp>
-               <sp who="Muko">
-                  <speaker>Muko</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Muko">
+                  
                   <p>CAN YOU EVEN NAME ONE GOOD THING ABOUT HIM?</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>HE LOOKED LIKE KEN TAKAKURA.</p>
-               </sp>
-               <sp who="Muko">
-                  <speaker>Muko</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Muko">
+                  
                   <p>UGH, HERE WE GO AGAIN.</p>
-               </sp>
-               <sp who="Miko">
-                  <speaker>Miko</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Miko">
+                  
                   <p>UGH, HERE WE GO AGAIN.</p>
-               </sp>
-               <sp who="Muko">
-                  <speaker>Muko</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Muko">
+                  
                   <p>GOD, YOU MAKE ME SICK.</p>
-               </sp>
-               <sp who="Miko">
-                  <speaker>Miko</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Miko">
+                  
                   <p>GOD, YOU MAKE ME SICK.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WHAT'S WRONG WITH THAT?! I LIKE HARD-BOILED TOUGH GUYS LIKE KEN TAKAKURA!</p>
-               </sp>
-               <sp who="cKen">
-                  <speaker>Celebrity Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="cKen">
+                  
                   <p>I AM AN AWKWARD FELLOW, AFTER ALL.</p>
-               </sp>
-               <sp who="Muko">
-                  <speaker>Muko</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Muko">
+                  
                   <p>DUDES LIKE THAT ARE EXTINCT.</p>
-               </sp>
-               <sp who="Miko">
-                  <speaker>Miko</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Miko">
+                  
                   <p>DUDES LIKE THAT ARE EXTINCT.</p>
-               </sp>
+               </cbml:balloon>
             </stage>
          </div>
          <div type="scene">
             <stage type="location" place="hallway">
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>IT'S A DAMN SHAME. </p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WILL I NEVER MEET ANOTHER KEN?</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>I MEAN, COME ON... SOMEBODY, ANYBODY, CONSOLE ME!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>IT'S A HARDKNOCK LIFE...</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>!</p>
-               </sp>
+               </cbml:balloon>
             </stage>
             <stage type="location" place="classroom">
-               <sp who="Extra">
-                  <speaker>Classmate</speaker>
+               <cbml:balloon type="speech" who="Extra">
+                  
                   <p>QUIT LOOKING AT ME. YOU'RE CREEPING ME OUT.</p>
-               </sp>
-               <sp who="Extra">
-                  <speaker>Classmate</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Extra">
+                  
                   <p>TRY ONE WITH A MAGNEТ IN IT. </p>
-               </sp>
-               <sp who="Extra">
-                  <speaker>Classmate</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Extra">
+                  
                   <p>DAMN, THIS ONE'S GONNA HURT!</p>
-               </sp>
-               <sp who="Extra">
-                  <speaker>Classmate</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Extra">
+                  
                   <p>!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WHAT'RE YOU READING THERE</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>HUH? UMM, WELL, IT'S... </p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>UGH, LAME!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>IS THE WORLD JUST FULL OF SCUMBAGS? </p>
-               </sp></stage>
+               </cbml:balloon></stage>
             <stage type="location" place="hallway">
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>GAH! I HATE THIS!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WHAT CAN I DO TO UNLEASH THIS STRESS?!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>MISS MOMO AYASE!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>I KNOW WHAT YOU'RE INTO.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>HAH?</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>I KNOW WHAT YOU'RE INTO.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>HOW MANY TIMES ARE YOU GONNA REPEAT YOURSELF?</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>FOR A PERSON LIKE YOU, MISS AYASE, TO COME TALK TO A FELLOw LIKE ME?</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>THERE CAN BE ONLY ONE EXPLANATION!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>I THINK YOU'VE GOT THЕ WRONG IDEA.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>I'M NOТ TRYIN' TO BE YOUR FRIEND..</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>JUST FORGET WHAT HAPPENED BACK THERE.</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>THIS IS WHAT I'M TALKING ABOUT!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>PRESIDENT ОВАМА HAS ALREADY BEEN TO MARS!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>THE WHOLE OF PROJECТ PEGASUS REVEALED!</p>
-               </sp>
-               <caption source="magazine">RIGHTS NEGOTIATIONS FOR REPTILIANS MARS, AND THE
-                  EARTH!</caption>
-               <caption source="magazine">WHAT IS THE RELATIONSHIP BETWEEN THE ILLUMINATI ANDTHE
-                  REPTILIANS?!</caption>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:caption>RIGHTS NEGOTIATIONS FOR REPTILIANS MARS, AND THE
+                  EARTH!</cbml:caption>
+               <cbml:caption>WHAT IS THE RELATIONSHIP BETWEEN THE ILLUMINATI ANDTHE
+                  REPTILIANS?!</cbml:caption>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>HUH? SAY WHAT?</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>YOU'RE INTERESTED IN THE PARANORMAL, AREN'T YOU?!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>NAH.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>I DON'T BELIEVE IN UFOS OR ALIENS.</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>I'M TALKING ABOUT UAPS, NOT UFOS!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>UNIDENTIFIED AERIAL PHENOMENA!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>THE AMERICAN MILITARY HAS OFFICIALLY ACKNOWLEDGED THE EXISTENCE OF UAPS AND HAS
                      BEEN REORGANIZED AS THE SPACE FORCE!</p>
-               </sp>
-               <caption source="magazine">KOKU-JIEITAI *SPACE OPERATIONS SQUADRONS*</caption>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:caption>KOKU-JIEITAI *SPACE OPERATIONS SQUADRONS*</cbml:caption>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>WHILE JAPAN HAS FOUNDED THE JAPAN AIR AND SPAСE SELF-DEFENSE FORCE!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>ANY WAY YOU LOOK AT IT, THEY'RE PREPARING FOR A SPACE WAR!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>CAN I GO NOW?</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>HUH?! NO! WAIT...</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>THEY'VE GOT THЕ LATEST PICTURES OF NESSIE IN HERE!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>AND STUFF ABOUT LIEUTENANT COLONEL JIM CHANNON!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>AND SKINWALKER RANCH!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WOULD YOU SHUT THE HELL UP! I'M DEALING WITH A BROKEN HEART HERE!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>I'M NOT IN THE MOOD FOR THIS NONSENSE! YOU'RE REALLY PUSHIN' IT WITH THAT NERD
                      CRAP! </p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>THIS IS WHY YOU DON'T HAVE ANY FRIENDS!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>DON'T TALK TO ME LIKE WE'RE FRIENDS.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>SORRY. </p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>I WENT TOO FAR/.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>LOOK. </p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>I DON'T BELIEVE IN ALIENS...</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>...BUT I DO BELIEVE IN SPIRITS.</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>NO WAY. THERE'S NO SUCH THING AS SPIRITS. </p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>HAH?!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>I WENT ALONG WITH YOUR NONSENSE, AND YOU HAVE THE NERVE TO JUST SHUT ME
                      DOWN?!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>PLEASE DO NOT BELITTLE THE PARANORMAL!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>LEMME TELL YA SOMETHIN'. MY GRANDMA'S A SPIRIT MEDIUM!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>A WHAT?!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>HAVE YOU EVER SEEN AN EXORCISM?! IT'S SOО0 SCARY!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>THE POSSESSED PERSON HAS FITS AND STUFF!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>ILLNESSES CAN ALSO CAUSE FITS. </p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>THAT'S NO PROOF THAT SPIRITS EXIST.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>OH, YEAН? WELL, HAVE YOU EVER HAD AN ALIEN OFFER YOU A RIDE IN ITS UFO?!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>YOUR ARGUMENTS ARE ALL OVER THE PLACE!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>DON'T BE AN IDIOT!</p>
-               </sp>
-               <sp who="Muko">
-                  <speaker>Muko</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Muko">
+                  
                   <p>WHAT THE...? </p>
-               </sp>
-               <sp who="Muko">
-                  <speaker>Muko</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Muko">
+                  
                   <p>SEEMS SHE'S GIVEN UP ON KEN TAKAKURA FOR THE GEEK TУРЕ.</p>
-               </sp>
-               <sp who="Miko">
-                  <speaker>Miko</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Miko">
+                  
                   <p>I DON'T THINK SHE CARES HOW SHE LOOKS EITHER.</p>
-               </sp>
-               <sp who="Miko">
-                  <speaker>Miko</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Miko">
+                  
                   <p>CAN'T SAY I HATE IT.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>ALL RIGHT, TWERP. LET'S MAKE IT A CHALLENGE, THEN!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>IF I CAN PROVE SPIRITS ARE REAL...</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>...THEN YOU HAVE TO SERVE AS MY GOFER!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>FINE. THEN I'LL SHOW YOU SOME UFOS!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>I MEAN, UAPS!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>AND WHEN YOU FINALLY SEE ONE...</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>UM! THEN YOU'LL SERVE AS MY GOFER, MISS AYASE!</p>
-               </sp>
+               </cbml:balloon>
             </stage>
          </div>
          <div type="scene">
             <stage type="location">
                <cbml:caption source="sign">MEDICAL SCHOOL HOSPITAL</cbml:caption>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WHAT IS THIS PLACE?! IT'S SCARING THE CRAP OUTTA ME!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>AND YOU'RE TELLING ME THIS IS A UFO HOTSPOТ?!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>THEY SAY THE NAGI HOSPITAL IS PRACTICALLY THE HOLY LAND FOR UFOS!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>IF YOU CALL FOR A UFO FROM THE ROOF...</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>...YOU'LL DEFINITELY BE ABDUCTED!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WHAT DOES THAT EVEN MEEEAN?!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>IT MEANS YOU GET KIDNAPPED BY ALIENS AND THEY USE YOU FOR HUMAN
                      EXPERIMENTATION!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WHOA! HOLD ON! HAVE YOU BEEN EXPERIMENTED ON?!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>IT'S VERY POSSIBLE! </p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>HUH?</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>MOST OF THE PEOPLE WHO ARE ABDUCTED HAVE THEIR MEMORIES WIPED.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>LISTEN, YOU.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>YOU'VE NEVER ACTUALLY SEEN A UFO, HAVE YOU?</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>...</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>HAVE YOU HEARD OF REGRESSIVE HYPNOSIS?</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>QUIT DODGING THE QUESTION!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>WHETHER I'VE SEEN ONE OR NOT IS INCONSEQUENTIAL!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>THE QUESTION IS WHETHER OR NOT THE ARGUMENT IS SOLID! </p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>JUST SHUT UP ALREADY.</p>
-               </sp></stage>
+               </cbml:balloon></stage>
             <stage type="location" place="tunnel">
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>HOW ARE THINGS GOING ON YOUR END?</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>I HAVE ARRIVED... </p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>...AT THE HAUNTED LOCATION.</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>NOW, THEN!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>SHALL I PROVE TO YOU ONCE AND FOR ALL...</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>...THAT THERE IS NO SUCH THING AS GHOSTS! </p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>HEY, YOU AREN'T ACTUALLY SCARED, ARE YOU?</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>BY THE WAY, THEY SAY YOU ARE GUARANTEED TO SEE SOMETHING THERE. IT'S FAMOUS ON
                      THE NET.</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>YIKES!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>TOO SHY SHY BOY!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>IN THIS MOMENT!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>THEY SAY A LOUD VOICE IS THE MOST DANGEROUS THING OF ALL.</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p/>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>ON THE NET.</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>TOO SHY SHY BOY!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>WAIT, WHY DO YOU KEEР SAYING "ON THE NET"?</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>HAVE YOU SEEN A SPIRIT, MISS AYASE?</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>NOPE.</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>WHAT?!</p>
-               </sp>
+               </cbml:balloon>
             </stage>
             <stage type="location" place="hospital">
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>YOU HAD SOME NERVE TALKING SO BIG BEFORE!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>SORRY!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>TAKE BACK ALL THAT STUFF YOU SAID!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>YOU'VE NEVER EVEN SEEN A SPIRIT, BUT YOU STILL BELIEVE IN THEM-THAT'S JUST
                      BIZARRE!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>IT'S NOT BIZARRE!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>I TOLD YOU, MY GRANDMA'S A SPIRIT MEDIUM.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>AND WE WERE, LIKE, REAL CLOSE...</p>
-               </sp></stage>
+               </cbml:balloon></stage>
             <stage type="location" place="tunnel">
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>...CUZ I'VE GOT NO PARENTS.</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>OH...I... I SEE...</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>NOW YOU'RE ALL TIMID?</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>I NEED TO TELL YOU SOMETHING.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>MY FAMILY IS, LIKE, SUPER WEIRD.</p>
-               </sp></stage>
+               </cbml:balloon></stage>
             <stage type="location" place="flashback">
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WHENEVER I USED TO GO OUTSIDE, I'D HAVE TO SWEAR TO DO A CERTAIN RITUAL FOR
                      GOOD LUCK.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>MY GRANDMA MADE ME DO IT ALL THE WAY TO SCHOOL TOO.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>AND OF COURSE THE BOYS WOULD LAUGH AT ME.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>BUT IF I DIDN'T DO IT, MY GRANDMA WOULD GET ANGRY, AND THEN I'D FEEL PRETTY BAD
                      ABOUT IT.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WORST OF ALL, THOUGH...</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>...WAS WHEN THE BOY I LIKED MADE FUN OF ME.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>I REALLY HATED MY GRANDMА FOR THAT.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>"BECAUSE OF THAT RITUAL, THE BOY I LIKE HATES ME NOW!" THAT'S WHAT I THOUGHT.
                   </p>
-               </sp></stage>
+               </cbml:balloon></stage>
             <stage type="location" place="hospital">
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>I SAID SOME TERRIBLE THINGS.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>AND TO MY OWN GRANDМА.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WE STOPPED TALKING FOR A LONG TIME.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>AND I STOPPED DOING THE RITUAL.</p>
-               </sp></stage>
+               </cbml:balloon></stage>
             <stage type="location" place="tunnel">
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>BUT THE WEIRD THING IS, WHEN OTHER PEOPLE MAKE FUN OF MY FAMILY... </p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>...IT REALLY PISSES ME OFF.</p>
-               </sp></stage>
+               </cbml:balloon></stage>
             <stage type="location" place="flashback">
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>AND THEN I REALIZED SOMETHING.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>IT WASN'T THAT THE BOY I LIKED DIDN'T LIKE ME.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WHAT I REALLY HATED WAS THAT THE BOY I LIKED...</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>...MADE FUN OF MY GRANDМА.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>THE TRUTH IS, MY GRANDMА... </p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>... AND HER WORK AS A MEDIUM...</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>...FELT SPECIAL TO ME, AND I LOVED THAT.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>SO NO, I'VE NEVER SEEN A GHOST.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>AND I DON'T KNOW IF MY GRANDMA'S ABILITY TO SENSE THE SUPERNATURAL IS THE REAL
                      THING OR NOT.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>BUT SHE TOOK ME INTO HER CARE...</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>... AND I WAS RAISED BY THE HANDS OF THAT ONE WOMAN.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>AND THAT GRANDMА...</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>... 15 SOMEONE I BELIEVE IN.</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>THAT'S WHY...</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>...I BELIEVE IN SPIRITS.</p>
-               </sp></stage>
+               </cbml:balloon></stage>
             <stage type="location" place="tunnel">
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>SO, LIKE, WHY DO YOU BELIEVE IN ALIENS?</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>HUH?</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>WELL... DOES IT REALLY MATTER?</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>SERIOUSLY? YOU REALLY DON'T HAVE A REASON?</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>DO YOU NEED TO HAVE A REASON TO LIKE SOMETHING?!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>R-REALLY? I DO?</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>I GUESS YOU'RE EASY TO TALK TO, MISS AYASE...</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>!</p>
-               </sp></stage>
+               </cbml:balloon></stage>
          </div> <div type="scene">
             <stage type="location" place="tunnel">
-               <sp who="turboGranny">
-                  <speaker>Turbo Granny</speaker>
+               <cbml:balloon type="speech" who="turboGranny">
+                  
                   <p>I'LL LET YOU SUCKLE MY TEATS...</p>
-               </sp>
-               <sp who="turboGranny">
-                  <speaker>Turbo Granny</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="turboGranny">
+                  
                   <p>...F YOU LET ME GOBBLE YOUR SCHLONG.</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>GHOOOST!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WAIT!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WHATEVER YOU DO, DON'T RUN!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>AAAAAAA</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>NO WAY!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>IT CAN'T BE!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>IT'S JUST AN OLD LADY!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>THAT'S PROBABLY IT! </p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>JUST AN OLD LADY!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>OCCU...KUN...</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>STOP RIGHT NOW</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>THE NET SAYS THAT'S SUPER DANGEROUS!</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>HUFF</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>HUFF</p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>I JUST MISUNDERSTOOD! </p>
-               </sp>
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>MERELY A CHANCE ENCOUNTER WITH A HORNY OLD LADY!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>DO NOT LET HER OVERTAKE YOU, NO MATTER WHAT!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>IF YOU LOSE THE RACE AGAINST TURBO GRANNY...</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>...SHE'LL PUT A CURSE ON YOU!</p>
-               </sp></stage>
+               </cbml:balloon></stage>
             <stage type="location" place="hospital">
-               <sp who="Ken">
-                  <speaker>Ken</speaker>
+               <cbml:balloon type="speech" who="Ken">
+                  
                   <p>AAH!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>HEY!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>OCCULT-KUN, CAN YOU HEAR ME?!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>HELLO?! ANSWER ME!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>THIS CAN'T BE HAPPENING!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>I'M ON MY WAY!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>I'M ON MY WAY!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>!</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WHAT THE HECK ARE YOU?</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>IF YOU COULD JUST, LIKE, STOP NOW...</p>
-               </sp></stage>
+               </cbml:balloon></stage>
             <stage type="location" place="spaceship">
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>WHAT IN THE...?</p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>GYAH!</p>
-               </sp>
-               <sp who="Rokuro">
-                  <speaker>Rokuro</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro">
+                  
                   <p>HELLO TO YOU, WOMAN PERSON.</p>
-               </sp>
-               <sp who="Rokuro">
-                  <speaker>Rokuro</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro">
+                  
                   <p>WE ARE SERPOIANS.</p>
-               </sp>
-               <sp who="Rokuro">
-                  <speaker>Rokuro</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro">
+                  
                   <p>WE ARE CALLED THAT BECAUSE WE COME FROM THE PLANET SERPO.</p>
-               </sp>
-               <sp who="Rokuro">
-                  <speaker>Rokuro</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro">
+                  
                   <p/>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>YOU'RE ALIENS?!</p>
-               </sp>
-               <sp who="Rokuro">
-                  <speaker>Rokuro</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro">
+                  
                   <p>YOUR THINGS ARE BEING HANDLED WITH CARE.</p>
-               </sp>
-               <sp who="Rokuro">
-                  <speaker>Rokuro</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro">
+                  
                   <p>THEY'RE TORN TО PIECES! YOU OWE ME COMPENSATION!</p>
-               </sp>
-               <sp who="Rokuro">
-                  <speaker>Rokuro</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro">
+                  
                   <p>AND I WANNA LEAVE NOW!</p>
-               </sp>
-               <sp who="Rokuro">
-                  <speaker>Rokuro</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro">
+                  
                   <p>COULD YOU LET ME OUTTA THIS THING?!</p>
-               </sp>
-               <sp who="Rokuro">
-                  <speaker>Rokuro</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro">
+                  
                   <p>OUR SPECIES HAS ONLY MALES.</p>
-               </sp>
-               <sp who="Rokuro">
-                  <speaker>Rokuro</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro">
+                  
                   <p>THEREFORE, WE INCREASE OUR NUMBERS THROUGH CLONING TECHNOLOGY. </p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>ARE YOU EVEN LISTENING TO ME?!</p>
-               </sp>
-               <sp who="Rokuro">
-                  <speaker>Rokuro</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro">
+                  
                   <p>HOWEVER, WHEN EVERY INDIVIDUAL IS IDENTICAL, EVOLUTION OF THE SPECIES DOES NOT
                      OCCUR... </p>
-               </sp>
-               <sp who="Rokuro">
-                  <speaker>Rokuro</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro">
+                  
                   <p>AS A RESULT, CONFLICT AND EMOTIONS SUCH AS JOY, ANGER, GRIEF, AND PLEASURE HAVE
                      BEEN ERADICATED.</p>
-               </sp>
-               <sp who="Rokuro">
-                  <speaker>Rokuro</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro">
+                  
                   <p>AND SO, IN ORDER FOR US TO REACQUIRE REPRODUCTIVE FUNCTIONS...</p>
-               </sp>
-               <sp who="Rokuro">
-                  <speaker>Rokuro</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro">
+                  
                   <p>... WE WISH TO HAVE YOUR KIND'S BANANA ORGANS. </p>
-               </sp>
-               <sp who="Momo">
-                  <speaker>Momo</speaker>
+               </cbml:balloon>
+               <cbml:balloon type="speech" who="Momo">
+                  
                   <p>SAY WHAT?</p>
-               </sp>
+               </cbml:balloon>
                
                
                
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>WE
+               <cbml:balloon type="speech" who="Rokuro"> <p>WE
                      WILL NOW
                      PERFORM
                      THE SEХ
-                     ACT.</p></sp>  
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>AFTER
+                     ACT.</p></cbml:balloon>  
+               <cbml:balloon type="speech" who="Rokuro"> <p>AFTER
                      PERFORMING
                      SEX WITH
                      YOU, WE WILL
@@ -1050,324 +1050,324 @@
                      AND BANANA
                      ORGANS
                      FOR OUR
-                     RESEARCH.</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>AS IF!
+                     RESEARCH.</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>AS IF!
                      SURE,
                      I WAS
                      DATING
                      A REAL
-                     DIRTBAG...</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>...BUT
+                     DIRTBAG...</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>...BUT
                      I STILL
                      MANAGED
                      TO WALK
                      AWAY WITH
                      MY VIRGINITY
-                     INTACT!</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>I'VE
+                     INTACT!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>I'VE
                      MAINTAINED
                      MY CHASTITY
                      FOR THE KEN
                      TAKAKURA
                      I'VE YET TO
-                     FIND...</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>...AND I'LL
+                     FIND...</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>...AND I'LL
                      BE DAMNED IF
                      I LET SOME
                      CREEPY-ASS
                      ALIENS JUST
                      TAKE IT FROM
-                     ME!</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>AH!</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>AH...</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>UGH...</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>IN ORDER TO
+                     ME!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>AH!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>AH...</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>UGH...</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>IN ORDER TO
                      AROUSE YOUR
                      DESIRE, WE WILL
                      CONTROL YOUR
                      BRAIN WAVES WITH
-                     PSYCHOKINESIS. </p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>NOW,
+                     PSYCHOKINESIS. </p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>NOW,
                      HOW IS
-                     THAT?</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>YOUR
+                     THAT?</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>YOUR
                      BODY IS
                      GROWING
                      WARMER AND
                      WARMER, IS
-                     IT NOT?</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>OH, NO!
+                     IT NOT?</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>OH, NO!
                      KEN
-                     TAKAKURAAA!</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>YOU'RE
+                     TAKAKURAAA!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>YOU'RE
                      RESISTING
                      OUR
-                     PSYCHOKINESIS?</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>WHAT
+                     PSYCHOKINESIS?</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>WHAT
                      REMARKABLE
                      FORCE
-                     OF WILL.</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>HOWEVER,
+                     OF WILL.</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>HOWEVER,
                      I SHAL1
-                     BEGIN.</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>NO!</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>STOP!</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>!</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>HER
-                     PHONE? </p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>A PERSON
+                     BEGIN.</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>NO!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>STOP!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>HER
+                     PHONE? </p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>A PERSON
                      WITH BAD
                      TIMING, IT
                      WOULD
-                     SEEM...</p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker> <p>MISS
-                     AYASE!</p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker> <p>I'M SO
-                     SORRY!</p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker> <p>THERE
+                     SEEM...</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"> <p>MISS
+                     AYASE!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"> <p>I'M SO
+                     SORRY!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"> <p>THERE
                      WAS A
-                     SPIRIT!</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>!!!</p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker> <p>AND I
+                     SPIRIT!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>!!!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"> <p>AND I
                      WOUND
                      UP...
-               </p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker><p>...GETTING
+               </p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"><p>...GETTING
                      CURSED
                      BY THE
                      TURBO
-                     GRANNY!</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>OCCULT-KUN! THANK
+                     GRANNY!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>OCCULT-KUN! THANK
                      GOD! PLEASE
-                     SAVE MЕ!</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>WHO
+                     SAVE MЕ!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>WHO
                      WOULD
-                     YOU BE?</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker><p>USING
+                     YOU BE?</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"><p>USING
                      A SMART
                      PHONE TO
                      INFILTRATE
                      US...
-               </p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>...IS
+               </p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>...IS
                      A TECHNOLOGY
                      THAT EVEN
                      WE DO
-                     NOT HAVE.</p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker><p>HELP MЕ,
-                     PLEASE!</p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker><p>I CAN'T
+                     NOT HAVE.</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"><p>HELP MЕ,
+                     PLEASE!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"><p>I CAN'T
                      CONTROL
-                     MYSE-</p></sp>
-               <sp who="turboGranny"><speaker>Cursed Ken</speaker> <p>LET ME
+                     MYSE-</p></cbml:balloon>
+               <cbml:balloon type="speech" who="turboGranny"> <p>LET ME
                      GOBBLE
                      YOUR
-                     SCHLONG.</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>COME
+                     SCHLONG.</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>COME
                      ON! GET А
                      HOLD OF
-                     YOURSELF!</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>HUMAN
-                     MALE.</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>YOU DO
+                     YOURSELF!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>HUMAN
+                     MALE.</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>YOU DO
                      NOT HAVE
                      PERMISSION
                      TO ENTER
-                     THIS PLACE.</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>LEAVE
-                     AT ONCE.</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>IF
+                     THIS PLACE.</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>LEAVE
+                     AT ONCE.</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>IF
                      YOU DO
-                     NOT...</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>...THEN
+                     NOT...</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>...THEN
                      GIVE US
                      YOUR
                      BANANA
-                     ORGAN.</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>EW!</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>SIX
+                     ORGAN.</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>EW!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>SIX
                      SENSE
-                     ORGANS!</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>HE IS
-                     FAST!</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>I CANNOТ
+                     ORGANS!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>HE IS
+                     FAST!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>I CANNOТ
                      TRAIN MY
                      PSYCHOKINESIS
-                     ON HIM!</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>OUR
+                     ON HIM!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>OUR
                      PRECIOUS
                      BANANA
-                     ORGANS!</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>YOU
+                     ORGANS!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>YOU
                      BANANA
-                     THIEF!</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>SERPOIAN
+                     THIEF!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>SERPOIAN
                      FORM
-                     SERPOGRAMMETRY!</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>I
+                     SERPOGRAMMETRY!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>I
                      HAVE
-                     YOU!</p></sp>
-               <sp who="Momo"><speaker>Momo</speaker> <p>OCCULT-KUN!</p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker> <p>AUGH!</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>NEVER
+                     YOU!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Momo"> <p>OCCULT-KUN!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"> <p>AUGH!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>NEVER
                      HAVE WE
                      ENCOUNTERED
                      SUCH A
                      PHYSICALLY
                      AGGRESSIVE
-                     PERSON.</p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>WE HAVE
+                     PERSON.</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>WE HAVE
                      ESTABLISHED
                      FRIENDLY
                      RELATIONS
                      WITH HUMANKIND...
-               </p></sp>
-               <sp who="Rokuro"><speaker>Rokuro</speaker> <p>...SO
+               </p></cbml:balloon>
+               <cbml:balloon type="speech" who="Rokuro"> <p>...SO
                      PLEASE
                      GIVE US
                      YOUR
                      BANANA
-                     ORGANS.</p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker> <p>YOU CAN
+                     ORGANS.</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"> <p>YOU CAN
                      HAVE IT!
                      IF IT'S MY
                      OWN, YOU
                      CAN HAVE
                      WHATEVER
-                     YOU WANT!</p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker> <p>ALL MY
+                     YOU WANT!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"> <p>ALL MY
                      LIFE I'VE
                      WANTED
                      TO MEEТ
-                     ALIENS!</p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker> <p>I DON'T
+                     ALIENS!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"> <p>I DON'T
                      HAVE ANY
                      FRIENDS...
-               </p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker> <p>...SO
+               </p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"> <p>...SO
                      I THOUGHT IF
                      THERE WERE
                      ALIENS, MAYBE
                      THEY WOULD
                      BE FRIENDS
-                     WITH ME!</p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker> <p>EVER SINCE
+                     WITH ME!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"> <p>EVER SINCE
                      ELEMENTARY
                      SCHOOL, I'VE
                      LOOKED TO
                      THE SKIES
                      AND ASKED
                      FOR UFOS TO
-                     COME!</p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker> <p>BUT
+                     COME!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"> <p>BUT
                      THEY
                      NEVER
-                     DID!</p></sp>
-               <sp who="Ken"><speaker>Cursed Ken</speaker> <p>NO MATTER
+                     DID!</p></cbml:balloon>
+               <cbml:balloon type="speech" who="Ken"> <p>NO MATTER
                      HOW MUCH
                      I CALLED
                      FOR THEМ,
                      THEY NEVER
-                     APPEARED!</p></sp> </stage><stage type="location" place="flashback">
-                        <sp who="Ken"><speaker>Cursed Ken</speaker> <p>HUMANS
+                     APPEARED!</p></cbml:balloon> </stage><stage type="location" place="flashback">
+                        <cbml:balloon type="speech" who="Ken"> <p>HUMANS
                               BULLIED ME
                               JUST FOR
-                              KICKS...</p></sp>
-                        <sp who="Ken"><speaker>Cursed Ken</speaker> <p>AND
+                              KICKS...</p></cbml:balloon>
+                        <cbml:balloon type="speech" who="Ken"> <p>AND
                               ALIENS
                               IGNORED
-                              ME!</p></sp>
-                        <sp who="Ken"><speaker>Cursed Ken</speaker> <p>NO ONE
+                              ME!</p></cbml:balloon>
+                        <cbml:balloon type="speech" who="Ken"> <p>NO ONE
                               WOULD
                               ACKNOWLEDGE MY
-                              EXISTENCE!</p></sp>
-                        <sp who="Ken"><speaker>Cursed Ken</speaker> <p>BUT
+                              EXISTENCE!</p></cbml:balloon>
+                        <cbml:balloon type="speech" who="Ken"> <p>BUT
                               MISS
-                              AYASE...</p></sp>
-                        <sp who="Ken"><speaker>Cursed Ken</speaker> <p>...ACTUALLY
+                              AYASE...</p></cbml:balloon>
+                        <cbml:balloon type="speech" who="Ken"> <p>...ACTUALLY
                               STOOD UP
-                              FOR ME!</p></sp> </stage><stage type="location" place="spaceship">
-                        <sp who="Ken"><speaker>Cursed Ken</speaker> <p>SO
+                              FOR ME!</p></cbml:balloon> </stage><stage type="location" place="spaceship">
+                        <cbml:balloon type="speech" who="Ken"> <p>SO
                               DON'T
                               YOU LAY
                               A HAND
-                              ON HER!</p></sp>
-                                 <sp who="Ken"><speaker>Cursed Ken</speaker> <p>IF YOU
+                              ON HER!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"> <p>IF YOU
                                        HURT HER,
                                        YOU WON'T
                                        GET AWAY
-                                       WITH IT!</p></sp>
-                                 <sp who="Ken"><speaker>Cursed Ken</speaker> <p>I'D EVEN
+                                       WITH IT!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"> <p>I'D EVEN
                                        BECOME...
-                                 </p></sp>
-                                 <sp who="Ken"><speaker>Cursed Ken</speaker> <p>...A
+                                 </p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"> <p>...A
                                        MONSTER,
                                        IF IT'S
                                        FOR HER
-                                       SAKE!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>YOU CAN
+                                       SAKE!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>YOU CAN
                                        DO IT,
-                                       OCCULT-KUN!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>SHOW
+                                       OCCULT-KUN!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>SHOW
                                        THEM
                                        WHAT A
                                        MAN YOU
-                                       ARE!</p></sp>
-                                 <sp who="Rokuro"><speaker>Rokuro</speaker><p>FIE!</p></sp>
-                                 <sp who="Ken"><speaker>Cursed Ken</speaker> <p>MISS
-                                       AYASE!</p></sp>
-                                 <sp who="Ken"><speaker>Cursed Ken</speaker> <p>I DON'T
+                                       ARE!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Rokuro"><p>FIE!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"> <p>MISS
+                                       AYASE!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"> <p>I DON'T
                                        THINK I
                                        CAN DO
                                        IT AFTER
-                                       ALL!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>AREN'T
+                                       ALL!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>AREN'T
                                        YOU
                                        GIVING
                                        UP A
                                        BIT TOO
-                                       QUICKLY?!</p></sp>
-                                 <sp who="Rokuro"><speaker>Rokuro</speaker><p>A
+                                       QUICKLY?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Rokuro"><p>A
                                        BARBARIC
                                        PERSON
                                        SUCH AS
-                                       YOURSELF...</p></sp>
-                                 <sp who="Rokuro"><speaker>Rokuro</speaker><p>...WILL
+                                       YOURSELF...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Rokuro"><p>...WILL
                                        NOT DO
                                        FOR A
-                                       FRIEND.</p></sp>
-                                 <sp who="Rokuro"><speaker>Rokuro</speaker><p>WHAT'S
+                                       FRIEND.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Rokuro"><p>WHAT'S
                                        MORE, WE
                                        PREFER
                                        WOMEN
-                                       PERSONS...</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>URK!</p></sp>
-                                 <sp who="Rokuro"><speaker>Rokuro</speaker><p>...ABOVE
+                                       PERSONS...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>URK!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Rokuro"><p>...ABOVE
                                        MALE
-                                       PERSONS.</p></sp>
-                                 <sp who="Rokuro"><speaker>Rokuro</speaker><p>NOW,
+                                       PERSONS.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Rokuro"><p>NOW,
                                        ONCE
-                                       AGAIN...</p></sp>
-                                 <sp who="Rokuro"><speaker>Rokuro</speaker><p>...I SHALL
+                                       AGAIN...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Rokuro"><p>...I SHALL
                                        AROUSE
                                        YOUR
-                                       DESIRE.</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>NNGH!</p></sp>
-                                 <sp who="Seiko"><p>NOW
+                                       DESIRE.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>NNGH!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Seiko"><p>NOW
                                        SEND
                                        OUT
                                        YOUR
-                                       CHI</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>I DON'T
-                                       WANNA!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>EVERY
-                                       DAY...</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>...MY
+                                       CHI</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>I DON'T
+                                       WANNA!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>EVERY
+                                       DAY...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>...MY
                                        FRIENDS
                                        MAKE FUN
                                        OF ME
-                                       FOR IT.</p></sp>
-                                 <sp who="Seiko"><p>WHAT
+                                       FOR IT.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Seiko"><p>WHAT
                                        ARE YOП
                                        TALKING
                                        ABOUT?!
@@ -1375,395 +1375,395 @@
                                        RELEASE
                                        YOUR
                                        CHI...
-                                 </p></sp>
-                                 <sp who="Seiko"><p>...NO
+                                 </p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Seiko"><p>...NO
                                        ILLNESS OR
                                        ACCIDENT WILL
                                        TROUBLE
-                                       YOU!</p></sp>
-                                 <sp who="Seiko"><p>NOTHING
+                                       YOU!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Seiko"><p>NOTHING
                                        EVIL CAN
                                        COME NEAR
-                                       YOU!</p></sp>
-                                 <sp who="Seiko"><p>FIRST,
+                                       YOU!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Seiko"><p>FIRST,
                                        FOCUS
                                        YOUR
                                        ENERGY
                                        BELOW
                                        YOUR
-                                       BELLY...</p></sp>
-                                 <sp who="Seiko"><p>...THEN
+                                       BELLY...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Seiko"><p>...THEN
                                        VISUALIZE
                                        YOUR CHI
                                        BEAMING
                                        OUT OF THE
                                        CROWN
                                        OF YOUR
-                                       HEAD.</p></sp>
-                                 <sp who="Extra"><speaker>Kid</speaker><p>HA HA!
+                                       HEAD.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Extra"><p>HA HA!
                                        LOOK!
                                        SHE'S
                                        DOING IT
-                                       AGAIN!</p></sp>
-                                 <sp who="Extra"><speaker>Kid</speaker><p>WHAT
+                                       AGAIN!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Extra"><p>WHAT
                                        A WEIRDO!
                                        YOU TRYIN' TO
                                        COMMUNICATE
                                        WITH ALIENS OR
-                                       SOMETHIN'?!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>I HATE IT!
+                                       SOMETHIN'?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>I HATE IT!
                                        I'M NEVER
                                        DOING IT
-                                       AGAIN!</p></sp>
-                                 <sp who="Seiko"><p>MOMO!
-                                       WAIT!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>I HATE
+                                       AGAIN!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Seiko"><p>MOMO!
+                                       WAIT!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>I HATE
                                        YOU,
-                                       GRANDMA!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>YOU
+                                       GRANDMA!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>YOU
                                        PHONY
                                        SPIRIT
-                                       MEDIUM!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>WHY AM
+                                       MEDIUM!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>WHY AM
                                        I REMEМBERING
                                        THAT AT А
                                        TIME LIKE
-                                       THIS?</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>I'M SO
+                                       THIS?</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>I'M SO
                                        SORRY
-                                       GRANDMА.</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>I WAS JUST
+                                       GRANDMА.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>I WAS JUST
                                        EMBARRASSED
                                        BACK THEN,
-                                       THAT'S ALL...</p></sp>
-                                 <sp who="Seiko"><p>FOCUS
+                                       THAT'S ALL...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Seiko"><p>FOCUS
                                        YOUR
                                        ENERGY
                                        BELOW
                                        YOUR
-                                       BELLY...</p></sp>
-                                 <sp who="Seiko"><p>...THEN
+                                       BELLY...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Seiko"><p>...THEN
                                        VISUALIZE
-                                       YOUR CHІ...</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>NO WAY!</p></sp>
-                                 <sp who="Ken"><speaker>Cursed Ken</speaker><p>WHOA!</p></sp>
-                                 <sp who="Ken"><speaker>Cursed Ken</speaker><p>MISS
+                                       YOUR CHІ...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>NO WAY!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>WHOA!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>MISS
                                        AYASE,
                                        YOU HAVE
                                        PARANORMAL
-                                       ABILITIES?!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>I'M AS
+                                       ABILITIES?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>I'M AS
                                        SHOCKED
                                        AS YOU
-                                       ARE!</p></sp>
-                                 <sp who="Rokuro"><speaker>Rokuro</speaker><p>WHAAAT?!
+                                       ARE!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Rokuro"><p>WHAAAT?!
                                        MY PSYСНОKINESIS
                                        IS BEING
                                        PUSHED
                                        BACK!
-                                 </p></sp>
-                                 <sp who="Rokuro"><speaker>Rokuro</speaker><p>HOW?!</p></sp>
-                                 <sp who="Rokuro"><speaker>Rokuro</speaker><p>THIS
+                                 </p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Rokuro"><p>HOW?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Rokuro"><p>THIS
                                        PERSON
                                        WAS NOT ABLE
                                        TO EMPLOY
                                        PSYCHOKINESIS
-                                       BEFORE!</p></sp>
-                                 <sp who="Rokuro"><speaker>Rokuro</speaker><p>COULD
+                                       BEFORE!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Rokuro"><p>COULD
                                        IT
-                                       BE?!</p></sp>
-                                 <sp who="Rokuro"><speaker>Rokuro</speaker><p>DID I OVERSTIMULATE HER
+                                       BE?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Rokuro"><p>DID I OVERSTIMULATE HER
                                        BRAINWAVES
                                        WITH MY
-                                       PSYCHOKINESIS...</p></sp>
-                                 <sp who="Rokuro"><speaker>Rokuro</speaker><p>...CAUSING
+                                       PSYCHOKINESIS...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Rokuro"><p>...CAUSING
                                        THE WOMAN
                                        PERSON'S
                                        CHAKRA TO
-                                       OPEN UP?!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>...CAUSING
+                                       OPEN UP?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>...CAUSING
                                        THE WOMAN
                                        PERSON'S
                                        CHAKRA TO
-                                       OPEN UP?!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>GRANDMА
+                                       OPEN UP?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>GRANDMА
                                        IS AN HONESTTO-GOODNESS
                                        REAL SPIRIT
                                        MEDIUM!
-                                 </p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>THANK YOU,
+                                 </p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>THANK YOU,
                                        GRANDMА!
                                        NOW I
                                        CAN SEND
                                        THESE
-                                       SCUMBAGS...</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>...FLYING INTO NEXT YEAR!!</p></sp>
+                                       SCUMBAGS...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>...FLYING INTO NEXT YEAR!!</p></cbml:balloon>
                                  <move who="Momo" where="Rokuro" type="psychic"/>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>GYAAAH!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>WHAT
+                                 <cbml:balloon type="speech" who="Momo"><p>GYAAAH!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>WHAT
                                        THE
                                        HECK?!
                                        WERE
                                        WE IN A
-                                       UFO?!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>OCCULT-KUN,
+                                       UFO?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>OCCULT-KUN,
                                        ARE YOU
-                                       OKAY?!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>WE
+                                       OKAY?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>WE
                                        GOTTA
                                        GET
                                        OUTTA
-                                       HERE!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>!!!</p></sp>
-                                 <caption source="sign">MEDICAL SCHOOL HOSPITAL</caption>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>YOWCH!
+                                       HERE!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>!!!</p></cbml:balloon>
+                                 <cbml:caption>MEDICAL SCHOOL HOSPITAL</cbml:caption>
+                                 <cbml:balloon type="speech" who="Momo"><p>YOWCH!
                                        WHAT
                                        THE HELL
                                        ARE
                                        YOU
                                        DOING,
                                        YOU
-                                       MORON?!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>GET A
+                                       MORON?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>GET A
                                        HOLD OF
                                        YOURSELF
-                                       DAMN IT!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>YOU
+                                       DAMN IT!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>YOU
                                        SON
                                        OF A
-                                       BITCH!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>TURBO
-                                       GRANNY !!</p></sp>
-                                 <sp who="turboGranny"><speaker>Turbo Granny</speaker><p>WHO ARE
+                                       BITCH!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>TURBO
+                                       GRANNY !!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="turboGranny"><p>WHO ARE
                                        YOU, YOU
-                                       WORM?</p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>GWAAGH!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>?!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>THE
+                                       WORM?</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>GWAAGH!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>THE
                                        CURSE
                                        STILL ISN'T
-                                       LIFTED?!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>EVEN
+                                       LIFTED?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>EVEN
                                        THOUGH
                                        GRANNY HAS
                                        LEFT HIS
-                                       BODY!</p></sp>
-                                 <sp who="turboGranny"><speaker>turboGranny</speaker><p>I HAVE HIS
+                                       BODY!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="turboGranny"><p>I HAVE HIS
                                        SCHLONG
                                        NOW.
-                                 </p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>!!!</p></sp>
-                                 <sp who="turboGranny"><speaker>turboGranny</speaker><p>AS LONG AS
+                                 </p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>!!!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="turboGranny"><p>AS LONG AS
                                        I HAVE HIS
-                                       SCHLONG...</p></sp>
-                                 <sp who="turboGranny"><speaker>turboGranny</speaker><p>...THE
+                                       SCHLONG...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="turboGranny"><p>...THE
                                        CURSE
                                        ON THE
                                        YOUNGSTER
                                        WILL
-                                       REMAIN.</p></sp>
-                                 <sp who="turboGranny"><speaker>turboGranny</speaker><p>IF YOU
+                                       REMAIN.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="turboGranny"><p>IF YOU
                                        WANT IT
                                        BACK, THEN
                                        COME TO THE
-                                       TUNNEL.</p></sp>
-                                 <sp who="turboGranny"><speaker>turboGranny</speaker><p>THIS PLACE
+                                       TUNNEL.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="turboGranny"><p>THIS PLACE
                                        IS TOO FAR
                                        AWAY FOR
                                        ME.
-                                 </p></sp>
-                                 <sp who="turboGranny"><speaker>turboGranny</speaker><p>AT THE
+                                 </p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="turboGranny"><p>AT THE
                                        TUNNEL, I
                                        WILL TAKE
                                        ON AS MUCH
                                        AS YOU CARE
-                                       TO GIVE!</p></sp>
-                                 <sp who="turboGranny"><speaker>turboGranny</speaker><p>YOU
+                                       TO GIVE!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="turboGranny"><p>YOU
                                        GARISH
                                        LITTLE
-                                       BITCH...</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>WHO'RE
+                                       BITCH...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>WHO'RE
                                        YOU
                                        CALLING
                                        A GARISH
                                        BITCH,
                                        YOU OLD
-                                       HAG!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>GIVE HIM
+                                       HAG!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>GIVE HIM
                                        BACK HIS
-                                       THINGY!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>EEEEK!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>OH NO!
+                                       THINGY!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>EEEEK!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>OH NO!
                                        ANYWAY
                                        RIGHT NOW
                                        WE GOТТА
                                        GET OUTTA
                                        HERE OR
                                        WE'RE DEAD
-                                       MEAT!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>PULL IT
+                                       MEAT!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>PULL IT
                                        TOGETHER,
                                        YOU
-                                       IDIOT!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>WE
+                                       IDIOT!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>WE
                                        GOTTA
                                        RUN
                                        FOR
                                        IT!
-                                 </p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>GYAAAH!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>THAT
+                                 </p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>GYAAAH!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>THAT
                                        WAS THЕ
-                                       WORST. </p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>WELP I
+                                       WORST. </p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>WELP I
                                        DEFINITELY
                                        BELIEVE
                                        IN ALIENS
-                                       NOW.</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>I MEAN, I WAS
+                                       NOW.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>I MEAN, I WAS
                                        ABDUCTED
-                                       BY THEM.</p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>AND
+                                       BY THEM.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>AND
                                        I BELIEVE
-                                       IN SPIRITS.</p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>I WAS
+                                       IN SPIRITS.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>I WAS
                                        CURSED
-                                       BY ONE.</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>SO
+                                       BY ONE.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>SO
                                        WHAT DО
                                        WE DO
-                                       NOW?</p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>GOOD
-                                       QUESTION.</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>HUH?!
+                                       NOW?</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>GOOD
+                                       QUESTION.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>HUH?!
                                        YOU'RE
                                        GOING
-                                       NOW?!</p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>MISS
+                                       NOW?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>MISS
                                        AYASE,
                                        PLEASE
                                        PUT ON MY
                                        CLOTHES
                                        AND GO
-                                       HOME.</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>HANG ON!
+                                       HOME.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>HANG ON!
                                        WITHOUT ME,
                                        YOU'LL GO
                                        BERSERK
-                                       AGAIN!</p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>EVERYTHING
+                                       AGAIN!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>EVERYTHING
                                        THAT'S
                                        HAPPENED
                                        IS MY
                                        FAULT...
-                                 </p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>I WON'T
+                                 </p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>I WON'T
                                        HAVE YOU BE
                                        INVOLVED
                                        IN IT ANY
-                                       FURTHER.</p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>I'LL
+                                       FURTHER.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>I'LL
                                        WORK
                                        UP THE
                                        COURAGE
                                        TO GO
                                        TO THE
-                                       TUNNEL.</p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>AND AFTER
+                                       TUNNEL.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>AND AFTER
                                        THAT, I'LL
                                        SOLVE THIS.
-                                       SOMEHOW.</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>WHY
+                                       SOMEHOW.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>WHY
                                        AREN'T YOU
                                        ASKING ME
                                        TO COME
-                                       WITH?!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>AFTER
+                                       WITH?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>AFTER
                                        WHAT I JUST
                                        EXPERIENCED,
                                        I CAN'T JUST
-                                       WALK AWAY!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>BESIDES,
+                                       WALK AWAY!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>BESIDES,
                                        IF I HADN'T
                                        BEEN THERE,
                                        YOU'D BE
                                        DEAD, YA
-                                       KNOW!</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>ISN'T IT
+                                       KNOW!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>ISN'T IT
                                        BETTER IF
                                        WE WORK
-                                       TOGETHER?!</p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>ARE YOU
+                                       TOGETHER?!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>ARE YOU
                                        SURE?
                                        I MEAN,
                                        EVEN IF
                                        YOU HELP
-                                       ME...</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>GEEZ,
+                                       ME...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>GEEZ,
                                        WOULD
                                        YOU
                                        SHUT UP
                                        ABOUT
                                        IT?!
-                                 </p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>COME
+                                 </p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>COME
                                        ON, PUT
                                        ON YOUR
                                        CLOTHES!
                                        WE'RE
-                                       GOING!</p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>S-SORRY..</p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>SO,
+                                       GOING!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>S-SORRY..</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>SO,
                                        PLEASE,
                                        MISS
                                        AYASE,
                                        PUT
                                        THESE
-                                       ON.</p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>IF YOU
+                                       ON.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>IF YOU
                                        DON'T, I WON'T
                                        BE ABLE TO
                                        SPEAK TO YOU
                                        PROPERLY.
-                                 </p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>WHAT
-                                       THE...?</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>WHY IS
+                                 </p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>WHAT
+                                       THE...?</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>WHY IS
                                        MY HEART
-                                       RACING?</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>NO, IT'S
-                                       NOT.</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>I WAS
+                                       RACING?</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>NO, IT'S
+                                       NOT.</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>I WAS
                                        JUST TAKEN
                                        ABACK WHEN
                                        HE HAPPENED
                                        TO SAY THAT KEN
                                        TAKAKURA LINE,
                                        THAT'S ALL.
-                                 </p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>CALM
+                                 </p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>CALM
                                        DOWN,
                                        MOMO,
                                        WOULD
-                                       YA...</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>YA
+                                       YA...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>YA
                                        KNOW...
-                                 </p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>NOW
+                                 </p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>NOW
                                        THAT I THINK
                                        ABOUT IT,
                                        WHAT'S YOUR
-                                       NAME AGAIN?</p></sp>
-                                 <sp who="Momo"><speaker>Momo</speaker><p>I'M
+                                       NAME AGAIN?</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Momo"><p>I'M
                                        REALLY
                                        BAD AT
                                        REMEMBERING
-                                       NAMES!</p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>OH,
-                                       UH...</p></sp>
-                                 <sp who="Ken"><speaker>Ken</speaker><p>IT'S KEN
-                                       TAKAKURA.</p></sp>
-                                 <caption source="manga">To be continued!</caption>
+                                       NAMES!</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>OH,
+                                       UH...</p></cbml:balloon>
+                                 <cbml:balloon type="speech" who="Ken"><p>IT'S KEN
+                                       TAKAKURA.</p></cbml:balloon>
+                                 <cbml:caption>To be continued!</cbml:caption>
                
             </stage>
          </div>
