@@ -80,7 +80,7 @@
                </sp>
             </stage>
          </div>
-         <div type="event">
+         <div type="event" xml:id="s1e1-event2" corresp="#i1-event2">
             <stage type="location" place="hallway">
                <sp who="Momo">
                   <speaker>Momo</speaker>
@@ -255,7 +255,7 @@
                      you'll be my gofer instead!</p>
                </sp></stage>
          </div>
-         <div type="event">
+         <div type="event" xml:id="s1e1-event3" corresp="#i1-event3">
             <stage type="location" place="hospital">
                <cbml:caption source="sign">NAGI GENERAL HOSPITAL</cbml:caption>
                <sp who="Momo">
@@ -704,7 +704,7 @@
                      escape! </p>
                </sp></stage>
          </div>
-         <div type="event">
+         <div type="event" xml:id="s1e1-event4" corresp="#i1-event4">
             <stage type="location" place="road">
                <sp who="Momo">
                   <speaker>Momo</speaker>
