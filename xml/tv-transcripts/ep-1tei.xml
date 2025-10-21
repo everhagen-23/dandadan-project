@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../schema/out/cbml(4).rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../schema/out/cbml(4).rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -18,7 +18,7 @@
    <text>
       <body>
          <div type="event" xml:id="s1e1-event1" corresp="#i1-event1">
-            <stage type="location" place="outsideSchool"/>
+            <stage type="location" where="outsideSchool"/>
             <sp who="BullyA">
                <speaker>Bully A</speaker>
                <p>I said, if you ain't lendin' me money, then no date today. Oh, but I'd be okay if
@@ -40,7 +40,7 @@
                <p>Gimme a break, moron! Octopus! Squid! Tuna!</p>
             </sp>
 
-            <stage type="location" place="classroom">
+            <stage type="location" where="classroom">
                <sp who="Muko">
                   <speaker>Muko</speaker>
                   <p>Totes funny! Seafood names aren't insults.</p>
@@ -81,7 +81,7 @@
             </stage>
          </div>
          <div type="event" xml:id="s1e1-event2" corresp="#i1-event2">
-            <stage type="location" place="hallway">
+            <stage type="location" where="hallway">
                <sp who="Momo">
                   <speaker>Momo</speaker>
                   <p>What the hell. Will I not be able to meet another Mr. Ken in my lifetime? Come
@@ -95,7 +95,7 @@
                   <speaker>Extra</speaker>
                   <p>-I did miss. -Don't look over here. Gross.</p>
                </sp></stage>
-            <stage type="location" place="classroom">
+            <stage type="location" where="classroom">
                <sp who="Extra">
                   <speaker>Extra</speaker>
                   <p>-We have this, too. -Nice.</p>
@@ -119,7 +119,7 @@
                <cbml:caption source="magazine">BIRTH OF THE AEROSPACE SELF-DEFENSE FORCE GUARDING OUTER
                   SPACE!!</cbml:caption>
             </stage>
-            <stage type="location" place="hallway"><sp who="Momo">
+            <stage type="location" where="hallway"><sp who="Momo">
                   <speaker>Momo</speaker>
                   <p>How lame. Do only scum live in this world? Man, I've had enough. Where can I
                      relieve all this stress?</p>
@@ -256,7 +256,7 @@
                </sp></stage>
          </div>
          <div type="event" xml:id="s1e1-event3" corresp="#i1-event3">
-            <stage type="location" place="hospital">
+            <stage type="location" where="hospital">
                <cbml:caption source="sign">NAGI GENERAL HOSPITAL</cbml:caption>
                <sp who="Momo">
                   <speaker>Momo</speaker>
@@ -312,7 +312,7 @@
                   <speaker>Momo</speaker>
                   <p>Shut up! Anyway, how are things on your end?</p>
                </sp></stage>
-            <stage type="location" place="tunnel">
+            <stage type="location" where="tunnel">
                <cbml:caption source="sign">KEEP OUT </cbml:caption>
                <sp who="Ken">
                   <speaker>Ken</speaker>
@@ -345,7 +345,7 @@
                   <p>You've been mentioning the 'net a lot. So have you seen a ghost, Miss
                      Ayase?</p>
                </sp></stage>
-            <stage type="location" place="hospital">
+            <stage type="location" where="hospital">
                <sp who="Momo">
                   <speaker>Momo</speaker>
                   <p>Nope. </p>
@@ -377,7 +377,7 @@
                   <p>Why are you getting all meek and stuff? Get a load of this. My family is
                      seriously weird.</p>
                </sp></stage>
-            <stage place="flashback"><sp who="Momo">
+            <stage where="flashback"><sp who="Momo">
                   <speaker>Momo</speaker>
                   <p> I always had to perform a good luck ritual before stepping outside. I was
                      always forced to do it the entire way to school. And of course, I was the
@@ -386,13 +386,13 @@
                      I really hated my grandma. "Because of that weird ritual, the boy I like hates
                      me." I think I said something horrible like that to Grandma.</p>
                </sp></stage>
-            <stage type="location" place="hospital"><sp who="Momo">
+            <stage type="location" where="hospital"><sp who="Momo">
                   <speaker>Momo</speaker>
                   <p>Since then, I didn't talk to Grandma until recently, and I stopped doing the
                      ritual. But you know, I get pissed when someone else makes fun of my family.
                      That's when I realized…</p>
                </sp></stage>
-            <stage type="location" place="flashback"><sp who="Momo">
+            <stage type="location" where="flashback"><sp who="Momo">
                   <speaker>Momo</speaker>
                   <p>I didn't hate the fact that the boy I liked didn't like me. I hated the fact
                      that the boy I liked made fun of my grandma. In reality, I loved both Grandma
@@ -400,33 +400,33 @@
                      take me in, and lovingly raised me all by herself… I have faith in my
                      grandma.</p>
                </sp></stage>
-            <stage place="hospital">
+            <stage where="hospital">
                <sp who="Momo">
                   <speaker>Momo</speaker>
                   <p> That's why I believe in ghosts. So anyway, why do you believe in aliens?</p>
                </sp></stage>
-            <stage place="tunnel">
+            <stage where="tunnel">
                <sp who="Ken">
                   <speaker>Ken</speaker>
                   <p>That really doesn't matter, right? </p>
                </sp>
             </stage>
-            <stage place="hospital">
+            <stage where="hospital">
                <sp who="Momo">
                   <speaker>Momo</speaker>
                   <p>What's with that? You don't have any reasons? Do you need a reason to like
                      something? Well, you have a point. More like, Occult-kun, you sure talk bluntly
                      over the phone.</p>
                </sp></stage>
-            <stage place="tunnel">
+            <stage where="tunnel">
                <sp who="Ken">
                   <speaker>Ken</speaker>
                   <p>I-Is that so? Miss Ayase, you're pretty easy to talk to.</p>
                </sp>
             </stage>
          </div>
-         <div>
-            <stage type="location" place="tunnel">
+         <div type="event">
+            <stage type="location" where="tunnel">
                <sp who="turboGranny">
                   <speaker>Turbo Granny</speaker>
                   <p>I'll let you suckle my teats, so… lemme gobble that weenie.</p>
@@ -466,12 +466,12 @@
                      Turbo Granny, you'll be cursed! Hey, Occult-kun! Are you listening? Hello?
                      Answer me! You're kidding me, right?</p>
                </sp></stage>
-            <stage type="location" place="hospital"><sp who="Momo">
+            <stage type="location" where="hospital"><sp who="Momo">
                   <speaker>Momo</speaker>
                   <p> I'll head over there right now! Just hang on! What are those things?
                      Seriously, cut it out.</p>
                </sp></stage>
-            <stage type="location" place="spaceship"><sp who="Rokuro">
+            <stage type="location" where="spaceship"><sp who="Rokuro">
                   <speaker>Rokuro</speaker>
                   <p>Hello, woman person. We are Serpoians. We are called that because we come from
                      the planet Serpo.</p>
@@ -705,7 +705,7 @@
                </sp></stage>
          </div>
          <div type="event" xml:id="s1e1-event4" corresp="#i1-event4">
-            <stage type="location" place="road">
+            <stage type="location" where="road">
                <sp who="Momo">
                   <speaker>Momo</speaker>
                   <p> This is the worst. I'll believe in aliens. Like, I was kidnapped and all.</p>

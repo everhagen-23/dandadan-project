@@ -19,7 +19,7 @@
       <body>
          <div type="event" xml:id="i1-event1">
             <pb n="1"/><!-- <pb/> is self-closing and means "page beginning" in TEI. You'll be using the PDF page numbers for reference. -->
-            <stage type="location" place="outsideSchool">
+            <stage type="location" where="outsideSchool">
                <cbml:balloon type="speech" who="BullyA">
                   <p>LIKE I SAID, IF YA AIN'T GONNA LEND ME THE MONEY...</p>
                </cbml:balloon>
@@ -82,7 +82,7 @@
                   <p>SQUID! OCTOPUS!</p>
                </cbml:balloon>
             </stage>
-            <stage type="location" place="classroom">
+            <stage type="location" where="classroom">
                <cbml:balloon type="speech" who="Muko">
                   
                   <p>THAT'S HILAR, GURL!</p>
@@ -146,7 +146,7 @@
             </stage>
          </div>
          <div type="scene">
-            <stage type="location" place="hallway">
+            <stage type="location" where="hallway">
                <cbml:balloon type="speech" who="Momo">
                   
                   <p>IT'S A DAMN SHAME. </p>
@@ -168,7 +168,7 @@
                   <p>!</p>
                </cbml:balloon>
             </stage>
-            <stage type="location" place="classroom">
+            <stage type="location" where="classroom">
                <cbml:balloon type="speech" who="Extra">
                   
                   <p>QUIT LOOKING AT ME. YOU'RE CREEPING ME OUT.</p>
@@ -201,7 +201,7 @@
                   
                   <p>IS THE WORLD JUST FULL OF SCUMBAGS? </p>
                </cbml:balloon></stage>
-            <stage type="location" place="hallway">
+            <stage type="location" where="hallway">
                <cbml:balloon type="speech" who="Momo">
                   
                   <p>GAH! I HATE THIS!</p>
@@ -540,7 +540,7 @@
                   
                   <p>JUST SHUT UP ALREADY.</p>
                </cbml:balloon></stage>
-            <stage type="location" place="tunnel">
+            <stage type="location" where="tunnel">
                <cbml:balloon type="speech" who="Momo">
                   
                   <p>HOW ARE THINGS GOING ON YOUR END?</p>
@@ -619,7 +619,7 @@
                   <p>WHAT?!</p>
                </cbml:balloon>
             </stage>
-            <stage type="location" place="hospital">
+            <stage type="location" where="hospital">
                <cbml:balloon type="speech" who="Ken">
                   
                   <p>YOU HAD SOME NERVE TALKING SO BIG BEFORE!</p>
@@ -649,7 +649,7 @@
                   
                   <p>AND WE WERE, LIKE, REAL CLOSE...</p>
                </cbml:balloon></stage>
-            <stage type="location" place="tunnel">
+            <stage type="location" where="tunnel">
                <cbml:balloon type="speech" who="Momo">
                   
                   <p>...CUZ I'VE GOT NO PARENTS.</p>
@@ -670,7 +670,7 @@
                   
                   <p>MY FAMILY IS, LIKE, SUPER WEIRD.</p>
                </cbml:balloon></stage>
-            <stage type="location" place="flashback">
+            <stage type="location" where="flashback">
                <cbml:balloon type="speech" who="Momo">
                   
                   <p>WHENEVER I USED TO GO OUTSIDE, I'D HAVE TO SWEAR TO DO A CERTAIN RITUAL FOR
@@ -706,7 +706,7 @@
                   <p>"BECAUSE OF THAT RITUAL, THE BOY I LIKE HATES ME NOW!" THAT'S WHAT I THOUGHT.
                   </p>
                </cbml:balloon></stage>
-            <stage type="location" place="hospital">
+            <stage type="location" where="hospital">
                <cbml:balloon type="speech" who="Momo">
                   
                   <p>I SAID SOME TERRIBLE THINGS.</p>
@@ -723,7 +723,7 @@
                   
                   <p>AND I STOPPED DOING THE RITUAL.</p>
                </cbml:balloon></stage>
-            <stage type="location" place="tunnel">
+            <stage type="location" where="tunnel">
                <cbml:balloon type="speech" who="Momo">
                   
                   <p>BUT THE WEIRD THING IS, WHEN OTHER PEOPLE MAKE FUN OF MY FAMILY... </p>
@@ -732,7 +732,7 @@
                   
                   <p>...IT REALLY PISSES ME OFF.</p>
                </cbml:balloon></stage>
-            <stage type="location" place="flashback">
+            <stage type="location" where="flashback">
                <cbml:balloon type="speech" who="Momo">
                   
                   <p>AND THEN I REALIZED SOMETHING.</p>
@@ -794,7 +794,7 @@
                   
                   <p>...I BELIEVE IN SPIRITS.</p>
                </cbml:balloon></stage>
-            <stage type="location" place="tunnel">
+            <stage type="location" where="tunnel">
                <cbml:balloon type="speech" who="Momo">
                   
                   <p>SO, LIKE, WHY DO YOU BELIEVE IN ALIENS?</p>
@@ -828,7 +828,7 @@
                   <p>!</p>
                </cbml:balloon></stage>
          </div> <div type="scene">
-            <stage type="location" place="tunnel">
+            <stage type="location" where="tunnel">
                <cbml:balloon type="speech" who="turboGranny">
                   
                   <p>I'LL LET YOU SUCKLE MY TEATS...</p>
@@ -913,7 +913,7 @@
                   
                   <p>...SHE'LL PUT A CURSE ON YOU!</p>
                </cbml:balloon></stage>
-            <stage type="location" place="hospital">
+            <stage type="location" where="hospital">
                <cbml:balloon type="speech" who="Ken">
                   
                   <p>AAH!</p>
@@ -954,7 +954,7 @@
                   
                   <p>IF YOU COULD JUST, LIKE, STOP NOW...</p>
                </cbml:balloon></stage>
-            <stage type="location" place="spaceship">
+            <stage type="location" where="spaceship">
                <cbml:balloon type="speech" who="Momo">
                   
                   <p>WHAT IN THE...?</p>
@@ -1268,7 +1268,7 @@
                      I CALLED
                      FOR THEМ,
                      THEY NEVER
-                     APPEARED!</p></cbml:balloon> </stage><stage type="location" place="flashback">
+                     APPEARED!</p></cbml:balloon> </stage><stage type="location" where="flashback">
                         <cbml:balloon type="speech" who="Ken"> <p>HUMANS
                               BULLIED ME
                               JUST FOR
@@ -1286,7 +1286,7 @@
                               AYASE...</p></cbml:balloon>
                         <cbml:balloon type="speech" who="Ken"> <p>...ACTUALLY
                               STOOD UP
-                              FOR ME!</p></cbml:balloon> </stage><stage type="location" place="spaceship">
+                              FOR ME!</p></cbml:balloon> </stage><stage type="location" where="spaceship">
                         <cbml:balloon type="speech" who="Ken"> <p>SO
                               DON'T
                               YOU LAY
