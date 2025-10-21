@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -19,7 +18,7 @@
    <text xml:lang="eng">
       <body>
          <div type="event">
-            <stage type="location" place="tvStudio"/>
+            <stage type="location" where="tvStudio"/>
             <sp who="seiko">
                <speaker>Sekio</speaker>
                <p>Your age is 27?</p>
@@ -46,7 +45,7 @@
             </sp>
          </div>
          <div type="event">
-            <stage type="location" place="backstage"/>
+            <stage type="location" where="backstage"/>
             <caption source="sign">CAN PSYCHIC POWERS EXPOSE?</caption>
             <sp who="extra">
                <speaker>staff1</speaker>
@@ -78,7 +77,7 @@
             </sp>
          </div>
          <div type="event">
-            <stage type="location" place="car"/>
+            <stage type="location" where="car"/>
             <caption source="sign">VACANT</caption>
             <caption source="sign">CARRYING PASSENGERS</caption>
             <sp who="extra">
@@ -101,7 +100,7 @@
             </sp>
          </div>
          <div type="event">
-            <stage type="location" place="road"/>
+            <stage type="location" where="road"/>
             <sp who="seiko">
                <speaker>Seiko</speaker>
                <p>Come on now, I thought you brought over yet another scumbag. </p>

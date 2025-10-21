@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -19,7 +18,7 @@
   <text>
       <body>        
            <div type="event">
-              <stage type="location" place="Street"/>
+              <stage type="location" where="Street"/>
               <sp who="Momo">
                  <speaker>Momo</speaker>
                  <p>No way! I refuse to accept that!</p>
@@ -109,7 +108,7 @@
               </sp>
            </div> 
          <div type="event">
-            <stage type="location" place="Momo's house"/>
+            <stage type="location" where="Momo's house"/>
             <sp who="Momo">
                <speaker>Momo</speaker>
                <p>My Grandma's really hard on guys so be careful.
