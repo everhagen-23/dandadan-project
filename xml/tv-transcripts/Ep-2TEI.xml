@@ -17,7 +17,7 @@
   </teiHeader>
   <text>
       <body>        
-           <div type="event">
+           <div type="event" xml:id="s1e2 - event1">
               <stage type="location" where="Street"/>
               <sp who="Momo">
                  <speaker>Momo</speaker>
@@ -107,7 +107,7 @@
                  is scarier than a ghost.</p>
               </sp>
            </div> 
-         <div type="event">
+         <div type="event" xml:id="">
             <stage type="location" where="Momo's house"/>
             <sp who="Momo">
                <speaker>Momo</speaker>
@@ -156,6 +156,45 @@
             <sp who="Okarun">
                <speaker>Okarun</speaker>
                <p>My entire body tingles.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>More like, what's with your head?
+               Totally hilarious! It's a granny perm!</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>Freaky! What are you laughing about?
+               I was about to die there!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Grandma!
+               Huh? Grandma's not here.
+               Oh well. Come on up.</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>E-Excuse me.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Hold on a minute.
+               I'll change clothes, so close the door.</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>Oh, okay.
+               Miss Ayase! The curse!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Hey! Don't just open the door!
+               Face the wall!</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>I-I'm sorry.</p>
             </sp>
          </div>
       </body>
