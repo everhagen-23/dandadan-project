@@ -1,0 +1,8 @@
+**Transcripts**
+
+To Sort Through Divs:
+- //body/div[2]
+To Count Character Dialogue:
+- count(//sp[@who="Momo"])
+
+**Manga**
