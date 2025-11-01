@@ -425,7 +425,7 @@
                </sp>
             </stage>
          </div>
-         <div type="event">
+         <div type="event" xml:id="s1e1-event4" corresp="#i1-event4">
             <stage type="location" where="tunnel">
                <sp who="turboGranny">
                   <speaker>Turbo Granny</speaker>
@@ -704,7 +704,7 @@
                      escape! </p>
                </sp></stage>
          </div>
-         <div type="event" xml:id="s1e1-event4" corresp="#i1-event4">
+         <div type="event" xml:id="s1e1-event5" corresp="#i1-event5">
             <stage type="location" where="road">
                <sp who="Momo">
                   <speaker>Momo</speaker>
