@@ -196,6 +196,140 @@
                <speaker>Okarun</speaker>
                <p>I-I'm sorry.</p>
             </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Sheesh, what a pain.
+               Okarun, put these on.
+               It's ladieswear but it should be okay.</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>Sorry to trouble you.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>By the way, you don't have anything down there, do you?</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>What? What do you mean?
+               I'm sorry! I ddin't look!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>It's fine now.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Hey, hey.
+               Show me what's down there.
+               Turbo Granny was saying that you're cursed
+               because your weenie has been taken.</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>It's gone!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>What? No way!
+                  What's it look like? Show me!</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>I can't show you! Are you stupid?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>But there's nothing there, right?</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>The issue isn't whether or not it's there!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Man, you're so cheap.</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>This is the worst!
+               What are we gonna do about this?
+               It's not there!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Don't make it sound like I'm the villian.</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>You're the one who challenged me!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Huh?
+               I wasn't interested in your occult stories to begin with!</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>I only picked a fight because you kept talking to me!
+               I didn't want to miss my chance.
+               I've always wanted a friend.
+               So I thought, I didn't want to miss this chnace.</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>But in the end...
+               You live in a different world, Miss Ayase.
+               You're not someone that a person like me should be talking to.
+               I'm so sorry... that I roped you into so much danger.
+               When this is all over you can just ignore me again.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>That's the annoying part about you.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>You asume how others feel and jump to conclusions without asking.
+               The reason you don't have friends is because you shove them away.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>don't say that I can ignore you.
+               We can just talk about the occult like normal</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> Hey, say something.
+               Poke, poke.</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>You're so ugly!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Huh?
+               What did you just say, punk?</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>You are completely tactless, Miss Ayase!
+               You bluntly recite people's weaknesses!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>What the hell is tact?</p>
+            </sp>
+            <sp who="Okarun">
+               <speaker>Okarun</speaker>
+               <p>Perhaps yours grandmother is back?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>shh! Stay quiet.</p>
+            </sp>
          </div>
       </body>
   </text>
