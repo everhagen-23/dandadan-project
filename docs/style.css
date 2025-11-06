@@ -11,7 +11,12 @@ body {
 a {
 	cursor: url('support/lcursor.png'), auto;
 }
-
+.display {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
 .note {
 	background-color: #bfff00;
 	text-align: center;
