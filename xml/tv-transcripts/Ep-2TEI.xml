@@ -17,7 +17,7 @@
   </teiHeader>
   <text>
       <body>        
-           <div type="event" xml:id="s1e2 - event1">
+           <div type="event" xml:id="street">
               <stage type="location" where="Street"/>
               <sp who="Momo">
                  <speaker>Momo</speaker>
@@ -53,18 +53,18 @@
               </sp>
               <sp who="Momo">
                  <speaker>Momo</speaker>
-                 <p>Because you like the occult, you're Okarun</p>
+                 <p>Because you like the occult, you're Ken</p>
               </sp>
-              <sp who="Okarun">
-                 <speaker>Okarun</speaker>
+              <sp who="Ken">
+                 <speaker>Ken</speaker>
                  <p>O-Okarun?</p>
               </sp>
               <sp who="Momo">
                  <speaker>Momo</speaker>
                  <p>If you use that name, I'll kill you.</p>
               </sp>
-              <sp who="Okarun">
-                 <speaker>Okarun</speaker>
+              <sp who="Ken">
+                 <speaker>Ken</speaker>
                  <p>"That name"? It's my own name.
                  Well, I guess I have mo choice, so that's fine.</p>
               </sp>
@@ -72,8 +72,8 @@
                  <speaker>Momo</speaker>
                  <p>You don't seem that upset about it, Okarun!</p>
               </sp>
-              <sp who="Okarun">
-                 <speaker>Okarun</speaker>
+              <sp who="Ken">
+                 <speaker>Ken</speaker>
                  <p>What? This is against my will!</p>
               </sp>
               <sp who="Momo">
@@ -86,8 +86,8 @@
                  <p>You farted in front of my face!
                  You're the worst</p>
               </sp>
-              <sp who="Okarun">
-                 <speaker>Okarun</speaker>
+              <sp who="Ken">
+                 <speaker>Ken</speaker>
                  <p>It's because you're putting pressure on me, Miss Ayase!</p>
               </sp>
               <sp who="Momo">
@@ -95,8 +95,8 @@
                  <p>Hold on a sec! It's already morning!
                  That means Turbo Granny won't come out anymore?</p>
               </sp>
-              <sp who="Okarun">
-                 <speaker>Okarun</speaker>
+              <sp who="Ken">
+                 <speaker>Ken</speaker>
                  <p>Huh? Is that true.</p>
               </sp>
               <sp who="Momo">
@@ -107,44 +107,44 @@
                  is scarier than a ghost.</p>
               </sp>
            </div> 
-         <div type="event" xml:id="">
+         <div type="event" xml:id="momohouse">
             <stage type="location" where="Momo's house"/>
             <sp who="Momo">
                <speaker>Momo</speaker>
                <p>My Grandma's really hard on guys so be careful.
                She almost killed a previous boyfriend,</p>
             </sp>
-            <sp who="Okarun">
-               <speaker>Okarun</speaker>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
                <p>Huh? You wait till now to say that?</p>
             </sp>
             <sp who="Momo">
                <speaker>Momo</speaker>
                <p>What's going on
-               Okarun! Are you okay?</p>
+               Ken! Are you okay?</p>
             </sp>
             <sp who="Momo">
                <speaker>Momo</speaker>
-               <p>Must be this. Sorry, Okarun! A barrier's been put up!</p>
+               <p>Must be this. Sorry, Ken! A barrier's been put up!</p>
             </sp>
-            <sp who="Okarun">
-               <speaker>Okarun</speaker>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
                <p>I thought I was gonna die.</p>
             </sp>
             <sp who="Momo">
                <speaker>Momo</speaker>
                <p>Okay, now try coming in!</p>
             </sp>
-            <sp who="Okarun">
-               <speaker>Okarun</speaker>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
                <p>Is it really gonna be okay?</p>
             </sp>
             <sp who="Momo">
                <speaker>Momo</speaker>
                <p>If you burn, I'll toss you into the river again, so it's okay.</p>
             </sp>
-            <sp who="Okarun">
-               <speaker>Okarun</speaker>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
                <p>Whoa, Freaky.</p>
             </sp>
             <sp who="Momo">
@@ -153,8 +153,8 @@
                How do you feel?
                Any changes?</p>
             </sp>
-            <sp who="Okarun">
-               <speaker>Okarun</speaker>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
                <p>My entire body tingles.</p>
             </sp>
             <sp who="Momo">
@@ -162,8 +162,8 @@
                <p>More like, what's with your head?
                Totally hilarious! It's a granny perm!</p>
             </sp>
-            <sp who="Okarun">
-               <speaker>Okarun</speaker>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
                <p>Freaky! What are you laughing about?
                I was about to die there!</p>
             </sp>
@@ -173,8 +173,8 @@
                Huh? Grandma's not here.
                Oh well. Come on up.</p>
             </sp>
-            <sp who="Okarun">
-               <speaker>Okarun</speaker>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
                <p>E-Excuse me.</p>
             </sp>
             <sp who="Momo">
@@ -182,8 +182,8 @@
                <p>Hold on a minute.
                I'll change clothes, so close the door.</p>
             </sp>
-            <sp who="Okarun">
-               <speaker>Okarun</speaker>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
                <p>Oh, okay.
                Miss Ayase! The curse!</p>
             </sp>
@@ -192,9 +192,713 @@
                <p>Hey! Don't just open the door!
                Face the wall!</p>
             </sp>
-            <sp who="Okarun">
-               <speaker>Okarun</speaker>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
                <p>I-I'm sorry.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Sheesh, what a pain.
+               Ken, put these on.
+               It's ladieswear but it should be okay.</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Sorry to trouble you.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>By the way, you don't have anything down there, do you?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>What? What do you mean?
+               I'm sorry! I ddin't look!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>It's fine now.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Hey, hey.
+               Show me what's down there.
+               Turbo Granny was saying that you're cursed
+               because your weenie has been taken.</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>It's gone!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>What? No way!
+                  What's it look like? Show me!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>I can't show you! Are you stupid?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>But there's nothing there, right?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>The issue isn't whether or not it's there!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Man, you're so cheap.</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>This is the worst!
+               What are we gonna do about this?
+               It's not there!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Don't make it sound like I'm the villian.</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>You're the one who challenged me!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Huh?
+               I wasn't interested in your occult stories to begin with!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>I only picked a fight because you kept talking to me!
+               I didn't want to miss my chance.
+               I've always wanted a friend.
+               So I thought, I didn't want to miss this chnace.</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>But in the end...
+               You live in a different world, Miss Ayase.
+               You're not someone that a person like me should be talking to.
+               I'm so sorry... that I roped you into so much danger.
+               When this is all over you can just ignore me again.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>That's the annoying part about you.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>You asume how others feel and jump to conclusions without asking.
+               The reason you don't have friends is because you shove them away.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>don't say that I can ignore you.
+               We can just talk about the occult like normal</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> Hey, say something.
+               Poke, poke.</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>You're so ugly!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Huh?
+               What did you just say, punk?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>You are completely tactless, Miss Ayase!
+               You bluntly recite people's weaknesses!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>What the hell is tact?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Perhaps yours grandmother is back?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>shh! Stay quiet.
+               I've never heard a doorball like this.</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>What do you mean?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Grandma told me in the past...
+               that we have two doorbells.
+               One is for humans,
+               and the other is for...
+               evil spirits</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Crap!
+               It's becasue I took that talisman off!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>It's okay if it's for a little bit, right?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Oh, no!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>There's something out there!
+               What are we gonna do?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>I'll put the tailsman back up!
+                  f it's an evil spirit,
+                  It'll burn up like you did, right?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Are you going to burn me, too?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>You can just get outside of our plot!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Please wait to put up the tailsman until I step outside!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>It's gone. Where did it go?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Miss Ayase! Look at this!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Crap! Crap!
+               We gotta leave the plot now!
+               Go that way! Hurry!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>-Miss Ayase!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>-What?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>We can't get out.
+               We're trapped inside by a wall.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>The torii gate! I can attach the talisman!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Please wait!
+                  You can't put the talisman up!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Why not?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>The torii gate is embedded into the wall!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>We can't leave the plot like this!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>What should we do?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>If we don't do anything, we're seriously...</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>What is this?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>We're in serious trouble!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Miss Ayase!
+               Help... me...</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Okarun, are you okay?
+                  Get a grip on yourself!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Black fog. S it's because of that.</p>
+            </sp>
+            <sp who="Alien">
+               <speaker>Alien</speaker>
+               <p>Found... you...</p>
+            </sp>
+            <sp who="Alien">
+               <speaker>Alien</speaker>
+               <p>You are evil people.
+                  You broke the promise.
+                  Give me…
+                  your banana!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Crap! What's with that evil spirit?
+               Wait, you have another one down there?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Of course not!
+               That's an alien</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Huh?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>There's no doubt about it! That collar!
+               That's a Flatwoods Monster!
+               They were first witnessed in a town
+               in America called Flatwoods.            
+               In Japan,
+               they've been sighted in Yamanashi.            
+               They're known as
+               "aliens who are three meters tall."</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Then what was that doorbell?
+                  
+                  You're saying a chime specifically
+                  for ghosts reacted to an alien?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>There are studies that say people who see spiritual
+               phenomena often see UFOs as well!
+               In other words, there might be something
+               in common between ghosts and aliens!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>In other words, there might be something
+                  in common between ghosts and aliens!
+                  If we don't hurry up and do something
+                  about that thing, the poison fog will k*ll us           
+                  But if I'm holding Okarun's curse back,
+                  I can't use my psychic powers well.</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Miss Ayase.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Sheesh, what a pain!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Huh?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Sheesh!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Miss Ayase.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>What is it now?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>I will fight.
+               Please release the curse!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>What's this so suddenly?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>I'm not afraid of aliens!
+                  Can you release just the physical curse
+                  while keeping my head in check?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>You make it sound easy, but I haven't
+                  learned how to control this power!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>If all goes well, we might be able
+                  to control that Granny's powers!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>I'm not sure if I can do it right!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Please try!
+               -Miss Ayase! Here it comes!</p>
+            </sp>
+            <sp who="Alien">
+               <speaker>Alien</speaker>
+               <p>-Give it to me!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Please hurry! 
+                  
+               This is amazing.
+               
+               I'm brimming with power!
+               
+               But I'm totally depressed.
+               </p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Whoa! Is his psyche broken?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>My conscious is clear, yo...
+               
+               But I totally have the blues, yo...</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>What's with that manner of speech?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Oh, sorry
+               
+               I am an awkward fellow after all, yo...</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>I told you not to say that!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>I should just, yo...
+               
+               Eradicate myself, yo?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Stop talking like that! It pisses me off!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>I'll be back in a little bit.
+               I'm sure it won't work, yo...</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Hey!
+               
+               Look ahead! In front of you!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>My body moved outta reflex.
+               
+               So this is Turbo Granny's powers?
+               
+               I feel so dejected.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>So fast. When'd he learn to do that?
+               
+               Wait, what's going on?
+               
+               Okarun!</p>
+            </sp>
+            <sp who="Alien">
+               <speaker>Alien</speaker>
+               <p>Give it to me!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Crap!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>I'm sorry, Miss Ayase!
+                  My body can't keep up
+                  with the power of the curse!
+                  
+                  My entire body feels like
+                  it's going to burst into a million pieces! 
+                  
+                  This isn't a speed
+                  that humans can move in!
+                  
+                  But I've only damaged
+                  five fingers from that thing!
+                  
+                  How the hell are we gonna defeat
+                  something like that?
+               </p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Like I know! Don't get pissed at me!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>If we knew how to defeat it,
+                  we wouldn't be struggling!
+               
+               That thing…
+               
+               Is it sumo wrestling?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Come again?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>If we can get its hand
+                  to touch the ground, maybe we win?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Miss Ayase, are you a genius?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>I knew I was.</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Next time is my limit, okay?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Okarun, aim for the legs.
+               
+               I'll make the thing trip
+               with my psychic powers!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Man, I'm so depressed.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>We have to get a bit closer,
+                  so you have to back me up!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>What a pain.</p>
+            </sp>
+            <sp who="Alien">
+               <speaker>Alien</speaker>
+               <p>Give me your banana!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>I can't take it anymore!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Hold back the curse with my right hand,
+                  
+                  and I'll take on this guy
+                  with my left hand!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>What a pain!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Oh, hold on.
+               
+               Sorry, Okarun!
+               
+               All right! The hand is melting!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Just like how we planned!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>You're kidding.</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Miss Ayase, run for it!
+                  
+                  Miss Ayase!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Crap. This is bad news.
+               
+               I'm back.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Sheesh. You really are a nuisance.
+                  
+                  Hey, sumo alien!
+               
+               You put your hand on the ground.
+               
+               That's cheating, you scumbag.</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Miss Ayase!
+               
+               Please release the curse one more time!
+               
+               I don't care what happens to my body!</p>
+            </sp>
+            
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>I'm gonna beat the crap outta this thing!
+                  
+                  You sit and watch, Okarun!
+                  
+                  I can't let cheaters off the hook!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Wait, what are you saying?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>You really pissed me off, wimpy alien.</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Stop it!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>That did nothing!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Please release my curse, Miss Ayase!
+                  I'm begging you!
+                  If this keeps up, you'll die!
+               </p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>This is fine.
+                  
+                  This depth is great.
+                  
+                  Because if I'm in this deep…
+                  
+                  it means I'm outside of the torii gate!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>We're back.
+                  
+                  We're saved.
+                  
+                  Okarun! We're back! See?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Oh, yes.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>I really thought I was gonna die!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Oh! Miss Ayase, the curse!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Come on! Don't be a pain!
+                  
+                  At least let me indulge in the moment!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>You say that, but I can't
+                  do anything about this.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>What? You change your hairdo?</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Of course not!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>That kinda looks good.
+                  I did prefer the granny perm, though.</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>But you made fun of it!</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Huh? I'm kinda dizzy.
+                  
+                  Oh, crap.</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Huh?
+                  
+                  Miss Ayase?
+                  
+                  Get a hold of yourself! Miss Ayase!</p>
             </sp>
          </div>
       </body>
