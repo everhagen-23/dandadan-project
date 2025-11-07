@@ -4,13 +4,9 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
-	cursor: url('support/rcursor.png'), auto;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-a {
-	cursor: url('support/lcursor.png'), auto;
-}
 .display {
     display: block;
     margin-left: auto;
@@ -176,7 +172,7 @@ navbar settings*/
 	color: rgb(211, 211, 211);
  }
 
---
+
 .classname {
   -webkit-animation-name: cssAnimation;
   -webkit-animation-duration: 3s;
