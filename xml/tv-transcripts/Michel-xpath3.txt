@@ -1,0 +1,24 @@
+1.  //div/count(*) counts how many child elements are inside each div. //div/*/count(*) counts how many elements are in ecah child of a div. it works because ( ) counts what comes after it in a path it can change depending where you put it.
+
+2. min(//div/*/count(*)) 
+min number is 3
+max(//div/*/count(*) 
+max number is 1112
+
+3.
+
+4. distinct-values(//occupation/@type) 
+count(distinct-values(//occupation/@type))
+
+5.
+a) //occupation[@type="artist"]
+b)//person[occupation[@type="artist"]]
+c)//person[@sex="f"][occupation[@type="artist"]]
+d)//person[occupation[@subtype="engraver"]]
+e) ...
+f)
+g)
+
+6.
+a)//*/name()
+b)count(distinct-values(//*/name()))
