@@ -113,7 +113,10 @@
             <cbml:balloon type="speech">
                <p>...</p>
             </cbml:balloon>
+         </div>
 
+         <div type="event" xml:id="i3-event4">
+            <stage type="location" where="road"/>
             <pb n="7"/>
             <cbml:balloon type="speech">
                <p>?!</p>
@@ -122,19 +125,78 @@
             <cbml:balloon type="speech" who="Seiko">
                <p>MY, MY, MY, AND HERE I THOUGHT YOU'D BROUGHT ANOTHER TRASH BOY HOME.</p>
             </cbml:balloon>
-            
+
             <cbml:balloon type="speech" who="Seiko">
                <p>TURNS OUT HE'S NOT EVEN HUMAN, IS HE?</p>
             </cbml:balloon>
-            
+
             <cbml:balloon type="speech" who="Seiko">
                <p>TRULY, MY GRAND-DAUGHTER BRINGS ME NOTHING BUT TROUBLE </p>
             </cbml:balloon>
-            
+
             <cbml:balloon type="speech" who="Seiko">
                <p>MY SKIN'S DRIED FROM THE STRESS OF IT ALL!</p>
             </cbml:balloon>
+
+            <pb n="8"/>
+            <cbml:balloon type="speech" who="Seiko">
+               <p> NOW THEN.</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p> BRING IT ON</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech">
+               <p>?!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>OOH!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>YIKES! HE'S AS ALL GET-OUT!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>WELL, EITHER WAY, HE WENT DOWN IN JUST THE WAY I EXPECTED.</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="TurboGranny">
+               <p>?!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>I KNEW YOU'D CIRCLE AROUND TO MY BLIND SPOT!</p>
+            </cbml:balloon>
+
+            <pb n="11"/>
+            <cbml:balloon type="speech" who="Seiko">
+               <p>YOU'D WALK RIGHT INTO THE TRAP...</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="TurboGranny">
+               <p>!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>...I HAD SET UP.</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>SET OVER THAT LINE AND YOU'RE TOAST.</p>
+            </cbml:balloon>
+
+            <pb n="12"/>
+            <cbml:balloon type="speech" who="Seiko">
+               <p>IT'S A MYSTIC BARRIER.</p>
+            </cbml:balloon>
+            
+            
+
          </div>
+
       </body>
    </text>
 </TEI>
