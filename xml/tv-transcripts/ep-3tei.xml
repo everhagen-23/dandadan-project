@@ -19,27 +19,27 @@
       <body>
          <div type="event" xml:id="s1e3-event1">
             <stage type="location" where="tvStudio"/>
-            <sp who="seiko">
-               <speaker>Sekio</speaker>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
                <p>Your age is 27?</p>
             </sp>
-            <sp who="shoma">
+            <sp who="Shoma">
                <speaker>Shoma</speaker>
                <p>I'm 20.</p>
             </sp>
-            <sp who="seiko">
-               <speaker>Sekio</speaker>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
                <p> You have a wife and child?</p>
             </sp>
-            <sp who="shoma">
+            <sp who="Shoma">
                <speaker>Shoma</speaker>
                <p>I live alone</p>
             </sp>
-            <sp who="seiko">
-               <speaker>Sekio</speaker>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
                <p>You like curry?</p>
             </sp>
-            <sp who="shoma">
+            <sp who="Shoma">
                <speaker>Shoma</speaker>
                <p>I like ramen.</p>
             </sp>
@@ -85,7 +85,7 @@
                <p>You're Santa Dodoria, aren't you? I saw you on TV the other day. Do you really
                   have psychic powers?</p>
             </sp>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>Here's fine. Drop me off.</p>
             </sp>
@@ -94,44 +94,44 @@
                <p> Huh? It's not like I'm trying to insult you or anything. I just wanted you to
                   show me. </p>
             </sp>
-            <sp who="seiko">
-               <speaker>Sekio</speaker>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
                <p> If you don't wanna die, hurry on and scram.</p>
             </sp>
          </div>
          <div type="event" xml:id="s1e3-event4">
             <stage type="location" where="road"/>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>Come on now, I thought you brought over yet another scumbag. </p>
             </sp>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p> But this one isn't even human. Sheesh. My grandkid only brings problems in. </p>
             </sp>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>My skin's gonna get dry from all the stress. Come on. Bring it on. </p>
             </sp>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>That was close! You're super fast! But things happened just as I predicted.</p>
             </sp>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>I thought you'd come around to my blind spot.</p>
             </sp>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>You fell into the trap that I had set up beforehand.</p>
             </sp>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>If you cross that line, you'll die. That's a barrier right there. When you drive a
                   warding nail inside this circle, the inside of the circle turns into a barrier.
                </p>
             </sp>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>But if you drive it outside the circle, the area outside of the circle becomes the
                   barrier. The reason you couldn't touch me was because I was protected by a
@@ -142,7 +142,7 @@
                <p>I'll make sure to eat and k*ll you. Don't think you can keep me trapped
                   forever.</p>
             </sp>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>I don't wanna trap you. I wanna k*ll you. Come on, stand your ground, will ya?
                   You're gonna cross that line! What's wrong? When you're in there, you can't make
@@ -152,7 +152,7 @@
                <speaker>ken</speaker>
                <p>You scummy old hag!</p>
             </sp>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>Did an old hag just call another old hag a scummy old hag? That pisses me off.
                </p>
@@ -161,7 +161,7 @@
                <speaker>Ken</speaker>
                <p> If you burn me, this guy that I cursed will die, too. </p>
             </sp>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p> I'll k*ll off all scumbags who deceive my grandkid. Even if they're human. Bye.
                </p>
@@ -177,7 +177,7 @@
                <speaker>Momo</speaker>
                <p>Okarun! Hey, you were home? </p>
             </sp>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>Shut up. I'm watching The Idiot Shogun.</p>
             </sp>
@@ -185,7 +185,7 @@
                <speaker>Momo</speaker>
                <p>Anyway, I have something to talk about with you. </p>
             </sp>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p> You went to a spiritual hotspot?</p>
             </sp>
@@ -195,7 +195,7 @@
                <p>I did. Not me, but a friend.</p>
             </sp>
 
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p> Why?</p>
             </sp>
@@ -205,7 +205,7 @@
                <p> "Why?" Because we were talking and that's how things ended up.</p>
             </sp>
 
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>The Idiot Shogun is Japan's national treasure.</p>
             </sp>
@@ -215,7 +215,7 @@
                   not around!</p>
             </sp>
 
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>If you're talking about the evil spirit, I k*lled it.</p>
             </sp>
@@ -224,7 +224,7 @@
                <speaker>Momo</speaker>
                <p> An evil spirit? What kind? Did it have glasses on?</p>
             </sp>
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>Come on, you don't even believe in ghosts. Besides, I'm a fake spirit medium.</p>
             </sp>
@@ -235,7 +235,7 @@
                   might happen, so just answer me!</p>
             </sp>
 
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p> Stop it. Don't believe in those stories. There are no evil spirits, and I'm a
                   fake.</p>
@@ -246,7 +246,7 @@
                   spirit?</p>
             </sp>
 
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>Head over to the main shrine.</p>
             </sp>
@@ -286,7 +286,7 @@
                <p> I'm so irritated.</p>
             </sp>
 
-            <sp who="seiko">
+            <sp who="Seiko">
                <speaker>Seiko</speaker>
                <p>Since when have you started being friends with monsters?</p>
             </sp>
