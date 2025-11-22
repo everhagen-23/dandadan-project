@@ -4,5 +4,6 @@ To Sort Through Divs:
 - //body/div[2]
 To Count Character Dialogue:
 - count(//sp[@who="Momo"])
+- //sp[@who="Momo"] ! string-length() => max() 
 
 **Manga**

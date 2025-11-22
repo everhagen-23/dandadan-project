@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="i2" n="3">It's a Granny vs. Granny Clash!</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="event" xml:id="i3-event1">
+            <stage type="location" where="tvStudio"/>
+            <pb n="1"/>
+
+
+            <cbml:balloon type="speech" who="Sekio">
+               <p>YOUR AGE...</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Sekio">
+               <p>...IS 27</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Shoma">
+               <p>I'M 20</p>
+            </cbml:balloon>
+
+            <pb n="2"/>
+            <cbml:caption> PSYCHIC POWERS EXPOSED </cbml:caption>
+
+            <cbml:balloon type="speech" who="Sekio">
+               <p>YOUR FAVORITE FOOD IS CURRY!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Shoma">
+               <p>IT'S RAMEN ACTUALLY.</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>YOU HAVE A WIFE AND A CHILD.</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Shoma">
+               <p>I LIVE ALONE.</p>
+            </cbml:balloon>
+         </div>
+         <div type="event" xml:id="i3-event2">
+            <stage type="location" where="backstage"/>
+            <pb n="3"/>
+            <cbml:balloon type="speech" who="Extra">
+               <p>THANK YPU FOR YOUR APPEARANCE TODAY!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Extra">
+               <p>BOY,THAT SANTA DODORIA IS SOMETHING ELSE, HUH?</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Extra">
+               <p>THEY WERE SO WRONG IT WAS ACTUALLY KINDA SATISFYING.</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Extra">
+               <p>AS IF AN IDOL THAT YOUNG WOULD HAVE A WIFE AND KIDS!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Extra">
+               <p>EVEN I COULDVE GUESSED THAT!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Extra">
+               <p>ARE WE JUST GONNA RUN THE EPISODE AS IS?</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Extra">
+               <p>IT'LL BE FINE. NOBODY'S GONNA BE UP IN ARMS ABOUT A LOCAL SHOW LIKE THIS
+                  ANYWAY.</p>
+            </cbml:balloon>
+         </div>
+
+         <div type="event" xml:id="i3-event3">
+            <stage type="location" where="car"/>
+            <pb n="4"/>
+            <cbml:balloon type="speech" who="Extra">
+               <p>YOU'RE SANTA DODORIA, AREN'T YOU?</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Extra">
+               <p>I'VE SEEN YOU ON TV. DO YOU ACTUALLY HAVE PSYCHIC ABILITIES?</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>YOU CAN LET ME OUT HERE.</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Extra">
+               <p>HUH? BUT... I WASN'T TRYING TO BE INSULTING OR ANYTHING. I WAS JUST HOPING YOU
+                  COULD SHOW ME SOMETHING...</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>IF YOU DON'T WANT AN EARLY DEATH, THEN GET OUT OF HERE NOW.</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech">
+               <p>...</p>
+            </cbml:balloon>
+         </div>
+
+         <div type="event" xml:id="i3-event4">
+            <stage type="location" where="road"/>
+            <pb n="7"/>
+            <cbml:balloon type="speech">
+               <p>?!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>MY, MY, MY, AND HERE I THOUGHT YOU'D BROUGHT ANOTHER TRASH BOY HOME.</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>TURNS OUT HE'S NOT EVEN HUMAN, IS HE?</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>TRULY, MY GRAND-DAUGHTER BRINGS ME NOTHING BUT TROUBLE </p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>MY SKIN'S DRIED FROM THE STRESS OF IT ALL!</p>
+            </cbml:balloon>
+
+            <pb n="8"/>
+            <cbml:balloon type="speech" who="Seiko">
+               <p> NOW THEN.</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p> BRING IT ON</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech">
+               <p>?!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>OOH!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>YIKES! HE'S AS ALL GET-OUT!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>WELL, EITHER WAY, HE WENT DOWN IN JUST THE WAY I EXPECTED.</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="TurboGranny">
+               <p>?!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>I KNEW YOU'D CIRCLE AROUND TO MY BLIND SPOT!</p>
+            </cbml:balloon>
+
+            <pb n="11"/>
+            <cbml:balloon type="speech" who="Seiko">
+               <p>YOU'D WALK RIGHT INTO THE TRAP...</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="TurboGranny">
+               <p>!</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>...I HAD SET UP.</p>
+            </cbml:balloon>
+
+            <cbml:balloon type="speech" who="Seiko">
+               <p>SET OVER THAT LINE AND YOU'RE TOAST.</p>
+            </cbml:balloon>
+
+            <pb n="12"/>
+            <cbml:balloon type="speech" who="Seiko">
+               <p>IT'S A MYSTIC BARRIER.</p>
+            </cbml:balloon>
+            
+            
+
+         </div>
+
+      </body>
+   </text>
+</TEI>
