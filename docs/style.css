@@ -6,7 +6,11 @@ body {
 	background-size: cover;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+.dataFrame {
+    width: 49%;
+    display: inline;
+    margin: 0 auto 0;
+}
 .display {
     display: block;
     margin-left: auto;

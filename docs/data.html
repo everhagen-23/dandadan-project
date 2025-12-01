@@ -1,40 +1,59 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>DanDaDan Analysis</title>
-        <link rel="stylesheet" type="text/css" href="style.css" />
-    <body class="yokai">
-        <!-- NAVBAR START -->
-        <nav class="nav">
-            <ul>
-                <li>
-                    <a href="index.html">
-                        <img src="support/sHome.png" alt="home header" />
-                    </a>
-                </li>
-                <li>
-                    <a href="data.html">
-                        <img src="support/sData.png" alt="data header" />
-                    </a>
-                </li>
-                <li>
-                    <a href="analysis.html">
-                        <img src="support/sAnalysis.png" alt="analysis header" />
-                    </a>
-                </li>
-            </ul>
-        </nav>
-        <!-- NAVBAR END -->
-        <figure class="textBlock">
-          <section class="textBlock">
-              <h1><img src="support/hproject.png" height="140" alt="header for data"/></h1>
-              <p>iframes and header in wip this is mostly for formatting later lol</p>
-              <iframe class="display" src="../xml/tv-transcripts/ep-1tei.xml" >
+<head>
+    <title>DanDaDan Analysis</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+<body class="yokai">
+<!-- NAVBAR START -->
+<nav class="nav">
+    <ul>
+        <li>
+            <a href="index.html">
+                <img src="support/sHome.png" alt="home header"/>
+            </a>
+        </li>
+        <li>
+            <a href="data.html">
+                <img src="support/sData.png" alt="data header"/>
+            </a>
+        </li>
+        <li>
+            <a href="analysis.html">
+                <img src="support/sAnalysis.png" alt="analysis header"/>
+            </a>
+        </li>
+    </ul>
+</nav>
+<!-- NAVBAR END -->
+<figure class="textBlock">
+    <section class="textBlock">
+        <h1><img src="support/hproject.png" height="140" alt="header for data"/></h1>
+        <p> For this Project we used the transcripts from the DanDaDan manga and anime as a base, going in with XML to
+            label each line of text. <b>We found [X] things important to label here: </b></p>
+        <ul>
+            <li><b>Names:</b> Very obviously important, we labelled each character with consistent character names. In
+                the manga transcripts we encoded with []. In the anime transcripts we encoded with []
+            </li>
+            <li><b>Diegetic Text:</b> There are magazines and location signs in this media, and we wanted to compare the
+                two. In
+                the manga transcripts we encoded with []. In the anime transcripts we encoded with []
+            </li>
+            <li><b>Scenes:</b> To help divide the manga and anime into easily digestible segments we chose important
+                points to "break" the text into, making it easier to analyze in smaller chunks. In
+                the manga and anime transcripts we encoded with div and id elements.
+            </li>
+        </ul>
+        <iframe class="dataFrame" src="../xml/manga/is-1tei.xml"></iframe>
+        <iframe class="dataFrame" src="../xml/tv-transcripts/ep-1tei.xml"></iframe>
+    </section>
+    <section class="textBlock">
+        <h2>
+            What are we Looking at?
+        </h2>
+        <p>We mostly focused on the difference between dialogue in the manga vs the anime, seeing which characters
+            talked the most or who had the larges difference in dialogue in the two different version. </p>
+    </section>
+</figure>
 
-              </iframe>
-
-          </section>
-        </figure>
-
-    </body>
+</body>
 </html>
