@@ -1,0 +1,22 @@
+body {
+    background: red;
+}
+
+.main {
+    background: white;
+    width: 95%;
+    display: block;
+    margin: 0 auto 0;
+    padding: 2em;
+}
+.sect {
+    margin: 3em;
+}
+.speaker {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.Momo {
+    color:pink;
+}

@@ -1,40 +1,66 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>DanDaDan Analysis</title>
-        <link rel="stylesheet" type="text/css" href="style.css" />
-    <body class="yokai">
-        <!-- NAVBAR START -->
-        <nav class="nav">
-            <ul>
-                <li>
-                    <a href="index.html">
-                        <img src="support/sHome.png" alt="home header" />
-                    </a>
-                </li>
-                <li>
-                    <a href="data.html">
-                        <img src="support/sData.png" alt="data header" />
-                    </a>
-                </li>
-                <li>
-                    <a href="analysis.html">
-                        <img src="support/sAnalysis.png" alt="analysis header" />
-                    </a>
-                </li>
-            </ul>
-        </nav>
-        <!-- NAVBAR END -->
-        <figure class="textBlock">
-          <section class="textBlock">
-              <h1><img src="support/hproject.png" height="140" alt="header for data"/></h1>
-              <p>iframes and header in wip this is mostly for formatting later lol</p>
-              <iframe class="display" src="../xml/tv-transcripts/ep-1tei.xml" >
+<html lang="ENG">
+<head>
+    <title>DanDaDan Analysis</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+<body class="yokai">
+<!-- NAVBAR START -->
+<nav class="nav">
+    <ul>
+        <li>
+            <a href="index.html">
+                <img src="support/sHome.png" alt="home header"/>
+            </a>
+        </li>
+        <li>
+            <a href="data.html">
+                <img src="support/sData.png" alt="data header"/>
+            </a>
+        </li>
+        <li>
+            <a href="analysis.html">
+                <img src="support/sAnalysis.png" alt="analysis header"/>
+            </a>
+        </li>
+    </ul>
+</nav>
+<!-- NAVBAR END -->
+<figure class="textBlock">
+    <section class="textBlock">
+        <h1><img src="support/hproject.png" height="140" alt="header for data"/></h1>
+        <p> For this Project we used the transcripts from the DanDaDan manga and anime as a base, going in with XML to
+            label each line of text. <b>We found [X] things important to label here: </b></p>
+        <ul>
+            <li><b>Names:</b> Very obviously important, we labelled each character with consistent character names. In
+                the manga transcripts we encoded with []. In the anime transcripts we encoded with []
+            </li>
+            <li><b>Diegetic Text:</b> There are magazines and location signs in this media, and we wanted to compare the
+                two. In
+                the manga transcripts we encoded with []. In the anime transcripts we encoded with []
+            </li>
+            <li><b>Scenes:</b> To help divide the manga and anime into easily digestible segments we chose important
+                points to "break" the text into, making it easier to analyze in smaller chunks. In
+                the manga and anime transcripts we encoded with div and id elements.
+            </li>
+        </ul>
+        <br/>
+        <p><img class="right" alt="how to read manga" style="width:25%"
+                src="support/readingGuide.png"/> <br/>
+            Transcripts of the anime already existed however for the manga we had to
+            manually transcribe all of the text
+            which proved to be a time-consuming task. When you read manga you read it right to left, which is a small
+            hurdle when reading as a human, however this meant that we couldn't directly copy and paste the text, as due
+            to the reversed order and wonky panel structure, it would paste totally out of order. As a result we had to
+            manually go through and paste each and every bubble individually!
+        </p>
+        <br/>
+        <section class="textBlock">
+            <iframe class="dataFrame" src="../xml/manga/is-1tei.xml"></iframe>
+            <iframe class="dataFrame" src="../xml/tv-transcripts/ep-1tei.xml"></iframe>
+        </section>
+        EMMA NOTE: run xslt to make these into html for easier reading!!
+    </section>
+</figure>
 
-              </iframe>
-
-          </section>
-        </figure>
-
-    </body>
+</body>
 </html>
