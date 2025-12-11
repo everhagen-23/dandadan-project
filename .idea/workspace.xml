@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4588b356-df85-4c9f-b50f-aec9a367d340" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/data.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/data.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +79,8 @@
       <workItem from="1763148005690" duration="30000" />
       <workItem from="1763388345019" duration="1864000" />
       <workItem from="1763408035797" duration="26000" />
+      <workItem from="1765398225769" duration="283000" />
+      <workItem from="1765468825116" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="adding file placeholders">
       <option name="closed" value="true" />
