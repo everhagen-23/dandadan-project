@@ -28,15 +28,18 @@
 <figure class="textBlock">
     <section class="textBlock">
         <h1>OUR DATA</h1>
-        <p> For this Project we used the transcripts from the DanDaDan manga and anime as a base, going in with XML to
-            label each line of text. <b>We found [X] things important to label here: </b></p>
+        <p> For this Project we used the transcripts from the DanDaDan manga and anime as a base, going in with XML
+            (specifically with TEI and CBML) to
+            label each line of text. <b>We found 3 things important to label here: </b></p>
         <ul>
             <li><b>Names:</b> Very obviously important, we labelled each character with consistent character names. In
-                the manga transcripts we encoded with []. In the anime transcripts we encoded with []
+                the manga transcripts we encoded with attribute who on speech bubble elements. In the anime transcripts
+                we encoded with both speaker elements and who attributes.
             </li>
             <li><b>Diegetic Text:</b> There are magazines and location signs in this media, and we wanted to compare the
                 two. In
-                the manga transcripts we encoded with []. In the anime transcripts we encoded with []
+                the manga transcripts we encoded with element cbml:caption. In the anime transcripts we encoded with
+                caption elements.
             </li>
             <li><b>Scenes:</b> To help divide the manga and anime into easily digestible segments we chose important
                 points to "break" the text into, making it easier to analyze in smaller chunks. In
@@ -56,8 +59,23 @@
         <br/>
         <section class="textBlock">
             <p>Here's what we found:</p>
-            <iframe class="dataFrame" src="ep3.html"></iframe>
-            <iframe class="dataFrame" src="../xml/tv-transcripts/ep-1tei.xml"></iframe>
+            <a style="text-decoration:none;"
+               href="https://github.com/everhagen-23/dandadan-project/blob/main/xml/tv-transcripts/ep-3tei.xml">
+                <iframe class="dataFrame" src="ep3.html"></iframe>
+            </a>
+            <a style="text-decoration:none;"
+               href="https://github.com/everhagen-23/dandadan-project/blob/main/xml/manga/is-3tei.xml">
+                <iframe class="dataFrame" src="../xml/tv-transcripts/ep-1tei.xml"></iframe>
+            </a></section>
+        <section class="textBlock">
+            <p>Now that our data was encoded we were able to use XPath to pull out our key takeaways, see more on our <a
+                    href="analysis.html">Analysis page</a>. Here our some fun stats about our data!
+
+            <ul>
+            <li></li>
+            </ul>
+
+            </p>
         </section>
     </section>
 </figure>
