@@ -102,6 +102,12 @@ body {
 		-webkit-transform: rotate(0.5deg) scale(1.04) skew(0.5deg) translateX(5px);
 	}
 }
+.manga {
+    display:inline;
+    width:45%;
+    padding: 1.5%
+
+}
 /*
 navbar settings*/
 .nav figure {

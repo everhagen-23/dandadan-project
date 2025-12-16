@@ -57,28 +57,36 @@
             manually go through and paste each and every bubble individually!
         </p>
         <br/>
-        <section class="textBlock">
-            <p>Here's what we found:</p>
-            <a style="text-decoration:none;"
-               href="https://github.com/everhagen-23/dandadan-project/blob/main/xml/tv-transcripts/ep-3tei.xml">
-                <iframe class="dataFrame" src="ep3.html"></iframe>
-            </a>
-            <a style="text-decoration:none;"
-               href="https://github.com/everhagen-23/dandadan-project/blob/main/xml/manga/is-3tei.xml">
-                <iframe class="dataFrame" src="../xml/tv-transcripts/ep-1tei.xml"></iframe>
-            </a></section>
-        <section class="textBlock">
-            <p>Now that our data was encoded we were able to use XPath to pull out our key takeaways, see more on our <a
-                    href="analysis.html">Analysis page</a>. Here our some fun stats about our data!
 
-            <ul>
-            <li></li>
-            </ul>
+        <p> Let's look at an example of a particularly text-heavy page <b>(click the manga to hear audio from the anime!)</b>:</p>
 
-            </p>
-        </section>
+        <a style="text-decoration:none" onclick="myAudioFunction('page');"><img style="text-decoration:none" class="manga" src="support/expage.png"/></a>
+        <img class="manga" src="support/expagexml.png"/>
+        <p>If you noticed and are wondering why we didn't bother blocking out the panels in the encoded manga, the
+            answer is quite simple: our goal is to compare the manga and the anime, not just to encode the manga to a
+            tee. The anime doesn't have panels in the same way the manga doesn't have sound effects (obviously there are
+            comparably alternatives in both, but none that would easily work for the current scope of our project).
+            Check out the scrollable sections below if you want to see the full medias that we worked with, or <a
+                    href="https://github.com/everhagen-23/dandadan-project/tree/main/xml" target="_blank">follow this link</a> to our
+            GitHub!</p>
+
+        <iframe class="dataFrame" src="ep3.html"></iframe>
+
+        <iframe class="dataFrame" src="support/ep-3tei.xml"></iframe>
+        <p>For further information about what we found in this data, check out our <a href="analysis.html">Analysis
+            Page</a>.</p>
     </section>
 </figure>
+<script>
+    var aAudio = new Audio('support/page.mp3');
 
+
+    function myAudioFunction(letter) {
+        if (letter == 'page') {
+            aAudio.play();
+        }
+
+    }</script>
 </body>
+
 </html>
