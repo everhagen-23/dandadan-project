@@ -1,19 +1,56 @@
 body {
-    background: black;
-    color: red;
+    background:black;
+    color: white;
 }
 .Ken{
-color:blue;
+color:#4169E1;
     
 }
 .Momo{
-    color:pink;
+    color:#FF69B4;
 }
 .Seiko{
-color:green;
+color:#FF0000;
     
 }
 
 .Shoma{
-    color:aqua;
+    color:#3CB371;
 }
+
+.TurboGranny{
+    color: #9370db
+}
+
+.staff1{
+    color:#ff8c00;
+}
+
+.staff2{
+    color:#ff8c00;
+}
+  .Extra{
+    color:  #ff8c00
+  }
+  
+  .Tv{
+      color:#00ced1
+  }
+  .driver{
+      color:#ff6600
+  }
+  
+   .TV{
+      color:#00ced1
+  }
+  
+  .turboGranny{
+    color: #9370db
+}
+ 
+ .who{
+     font-weight:bold;
+     margin-bottom:4px;
+ }
+
+ 

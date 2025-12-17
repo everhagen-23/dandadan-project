@@ -22,11 +22,11 @@
             <pb n="1"/>
 
 
-            <cbml:balloon type="speech" who="Sekio">
+            <cbml:balloon type="speech" who="Seiko">
                <p>YOUR AGE...</p>
             </cbml:balloon>
 
-            <cbml:balloon type="speech" who="Sekio">
+            <cbml:balloon type="speech" who="Seiko">
                <p>...IS 27</p>
             </cbml:balloon>
 
