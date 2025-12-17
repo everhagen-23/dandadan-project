@@ -14,6 +14,7 @@
             <head>
                 
                 <title>
+                    Anime
                     <h1>  <xsl:apply-templates select="descendant::title"/></h1>
                     
                 </title>
