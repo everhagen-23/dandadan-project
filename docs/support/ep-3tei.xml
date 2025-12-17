@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../schema/out/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cbml="http://www.cbml.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="s1e3">It's Granny vs. Granny Clash</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Dandadan</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="event" xml:id="s1e3-event1">
+            <stage type="location" where="tvStudio"/>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Your age is 27?</p>
+            </sp>
+            <sp who="Shoma">
+               <speaker>Shoma</speaker>
+               <p>I'm 20.</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> You have a wife and child?</p>
+            </sp>
+            <sp who="Shoma">
+               <speaker>Shoma</speaker>
+               <p>I live alone</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>You like curry?</p>
+            </sp>
+            <sp who="Shoma">
+               <speaker>Shoma</speaker>
+               <p>I like ramen.</p>
+            </sp>
+         </div>
+         <div type="event" xml:id="s1e3-event2">
+            <stage type="location" where="backstage"/>
+            <caption source="sign">CAN PSYCHIC POWERS EXPOSE?</caption>
+            <sp who="extra">
+               <speaker>staff1</speaker>
+               <p>Santa Dodoria sure is something.</p>
+            </sp>
+            <sp who="extra">
+               <speaker>staff2</speaker>
+               <p>So flamboyantly wrong.</p>
+            </sp>
+            <sp who="staff1">
+               <speaker>staff1</speaker>
+               <p>There's no way such a young idol could have a wife and a kid. </p>
+            </sp>
+            <sp who="extra">
+               <speaker>staff1</speaker>
+               <p>Even I can see that.</p>
+            </sp>
+            <sp who="extra">
+               <speaker>staff2</speaker>
+               <p> Is it okay to air that as-is?</p>
+            </sp>
+            <sp who="extra">
+               <speaker>staff1</speaker>
+               <p>Should be okay.</p>
+            </sp>
+            <sp who="extra">
+               <speaker>staff2</speaker>
+               <p> Nobody would be so pissed off at a local program like this one. </p>
+            </sp>
+         </div>
+         <div type="event" xml:id="s1e3-event3">
+            <stage type="location" where="car"/>
+            <caption source="sign">VACANT</caption>
+            <caption source="sign">CARRYING PASSENGERS</caption>
+            <sp who="extra">
+               <speaker>driver</speaker>
+               <p>You're Santa Dodoria, aren't you? I saw you on TV the other day. Do you really
+                  have psychic powers?</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Here's fine. Drop me off.</p>
+            </sp>
+            <sp who="extra">
+               <speaker>driver</speaker>
+               <p> Huh? It's not like I'm trying to insult you or anything. I just wanted you to
+                  show me. </p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> If you don't wanna die, hurry on and scram.</p>
+            </sp>
+         </div>
+         <div type="event" xml:id="s1e3-event4">
+            <stage type="location" where="road"/>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Come on now, I thought you brought over yet another scumbag. </p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> But this one isn't even human. Sheesh. My grandkid only brings problems in. </p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>My skin's gonna get dry from all the stress. Come on. Bring it on. </p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>That was close! You're super fast! But things happened just as I predicted.</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>I thought you'd come around to my blind spot.</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>You fell into the trap that I had set up beforehand.</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>If you cross that line, you'll die. That's a barrier right there. When you drive a
+                  warding nail inside this circle, the inside of the circle turns into a barrier.
+               </p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>But if you drive it outside the circle, the area outside of the circle becomes the
+                  barrier. The reason you couldn't touch me was because I was protected by a
+                  barrier. </p>
+            </sp>
+            <sp who="turboGranny">
+               <speaker>turboGranny</speaker>
+               <p>I'll make sure to eat and k*ll you. Don't think you can keep me trapped
+                  forever.</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>I don't wanna trap you. I wanna k*ll you. Come on, stand your ground, will ya?
+                  You're gonna cross that line! What's wrong? When you're in there, you can't make
+                  use of your speed that you're so proud of. </p>
+            </sp>
+            <sp who="turboGranny">
+               <speaker>turboGranny</speaker>
+               <p>You scummy old hag!</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Did an old hag just call another old hag a scummy old hag? That pisses me off.
+               </p>
+            </sp>
+            <sp who="turboGranny">
+               <speaker>turboGranny</speaker>
+               <p> If you burn me, this guy that I cursed will die, too. </p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> I'll k*ll off all scumbags who deceive my grandkid. Even if they're human. Bye.
+               </p>
+            </sp>
+            <sp who="turboGranny">
+               <speaker>turboGranny</speaker>
+               <p>Scummy old hag!</p>
+            </sp>
+         </div>
+         <div type="event" xml:id="s1e3-event5">
+            <stage type="location" where="ayaseHome"/>
+            <sp who="momo">
+               <speaker>Momo</speaker>
+               <p>Okarun! Hey, you were home? </p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Shut up. I'm watching The Idiot Shogun.</p>
+            </sp>
+            <sp who="momo">
+               <speaker>Momo</speaker>
+               <p>Anyway, I have something to talk about with you. </p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> You went to a spiritual hotspot?</p>
+            </sp>
+
+            <sp who="momo">
+               <speaker>Momo</speaker>
+               <p>I did. Not me, but a friend.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> Why?</p>
+            </sp>
+
+            <sp who="momo">
+               <speaker> Momo</speaker>
+               <p> "Why?" Because we were talking and that's how things ended up.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>The Idiot Shogun is Japan's national treasure.</p>
+            </sp>
+            <sp who="momo">
+               <speaker>Momo</speaker>
+               <p>Hey, were you listening? Anyway, did you see a guy? He'll be in big trouble if I'm
+                  not around!</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>If you're talking about the evil spirit, I k*lled it.</p>
+            </sp>
+
+            <sp who="momo">
+               <speaker>Momo</speaker>
+               <p> An evil spirit? What kind? Did it have glasses on?</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Come on, you don't even believe in ghosts. Besides, I'm a fake spirit medium.</p>
+            </sp>
+
+            <sp who="momo">
+               <speaker>Momo</speaker>
+               <p> How long are you gonna hold that grudge, you scummy old hag. Something really bad
+                  might happen, so just answer me!</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> Stop it. Don't believe in those stories. There are no evil spirits, and I'm a
+                  fake.</p>
+            </sp>
+            <sp who="momo">
+               <speaker> Momo</speaker>
+               <p>Grandma. I'm sorry. I was wrong. So please tell me. What did you do to the evil
+                  spirit?</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Head over to the main shrine.</p>
+            </sp>
+            <sp who="momo">
+               <speaker>Momo</speaker>
+               <p>Scummy old hag! If something's wrong with Okarun, I'll never forgive you!</p>
+            </sp>
+         </div>
+         <div type="event" xml:id="s1e3-event6">
+            <stage type="location" where="road"/>
+            <!-- this is momo thoughts -->
+            <sp who="momo">
+               <speaker>Momo</speaker>
+               <p>I didn't want to miss my chance. He was just an occult freak who simply wanted
+                  friends. It's my fault. Because I forced him to go to that place! I'm sorry,
+                  Okarun! Okarun!</p>
+            </sp>
+
+            <sp who="ken">
+               <speaker>Ken</speaker>
+               <p>Miss Ayase! I'm so glad! I thought that I'd m*rder*d you or something. Huh? Wait.
+                  Miss Ayase? Miss Ayase?</p>
+            </sp>
+
+            <sp who="momo">
+               <speaker> Momo</speaker>
+               <p>You're still alive and well, scumbag four-eyes! What? What's up with that?</p>
+            </sp>
+
+            <sp who="ken">
+               <speaker>Ken</speaker>
+               <p> Well, I'm sorry I'm still alive!</p>
+            </sp>
+
+            <sp who="momo">
+               <speaker>Momo</speaker>
+               <p> I'm so irritated.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Since when have you started being friends with monsters?</p>
+            </sp>
+
+            <sp who="momo">
+               <speaker> Momo</speaker>
+               <p>You scared me!</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>The curse won't kick in as long as he's in there. But one step outside, and he's
+                  back to a monster.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>What was that about k*lling him off? You lied to me.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> You seemed pretty desperate. You into brats like that?</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>No way! Turbo Granny took his you-know-what. And she told me that as long as she
+                  has it, his curse won't be lifted. I'm responsible for what happened to him, so I
+                  just want to do something about it.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> Oh, I see. So you do like him.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo </speaker>
+               <p>I didn't say that! Anyway, I can use psychic powers now.</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>What the hell are you talkin' about?</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>I went to this place where UFOs show up. A lot of stuff happened there, and now I
+                  can use powers.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko </speaker>
+               <p> But UFOs don't exist.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> I totally get that reaction. I was just like that until yesterday.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker> Momo </speaker>
+               <p>Anyway, it's true that I can use psychic powers now. And if I'm not holding back
+                  Okarun's curse with it, he goes wild.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> I'm sure psychic powers exist.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>I don't know what your criteria for believing stuff is.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Anyway, Turbo Granny, huh? You sure got your hands on a troublesome one.</p>
+            </sp>
+            <!-- the 2 next lines from Seiko below is the flashback where she is telling turbo granny backstory -->
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> In the past, she used to be called the Hundred Kilo Granny. She's a modern yokai
+                  monster that wreaked havoc all over the country. And I heard such an elusive
+                  entity had been dwelling for some time in that tunnel.I went over there once to
+                  check things out.</p>
+            </sp>
+            <cbml:caption source="sign"> KEEP OUT</cbml:caption>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> It was most strange. I couldn't even get near the tunnel because of just how
+                  strong the spiritual power was. You know about location-bound spirits? They're
+                  spirits that stay in particular locations that they have strong attachments to.
+                  They're basically the strongest within their territories. No spirit medium would
+                  go up against a location-bound spirit. There was a location-bound spirit inside
+                  that tunnel. Do you know what that means? Turbo Granny and that location-bound
+                  spirit had fused together.</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Don't try to fight against it. I don't want to lose my dear grandchild.</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> You're not directly involved with it, either. So forget about him. You should
+                  return to everyday life.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>I wonder what the Mr. Ken I love would do in times like this. When I can't decide,
+                  that's what I think. I've never had regret by choosing this way. And if this was
+                  Mr. Ken, I'm 100% positive he'd go in and help. So that's what I'm gonna do!</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Mr. Ken, you say? -You're totally in love with that kid!</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>No, that's not what I mean! I wasn't talking about him!</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Hey, she's confessing your love to you. How do you feel?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>I told you that's not what I mean! I'm talking about the actor!</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> Looks like I got no choice if you're gonna go that far. Go play tag with Turbo
+                  Granny. That thing has absolute confidence in its running. A few random taunts and
+                  it's sure to take the challenge. Now this is where the problem starts. The
+                  location-bound spirit's territory is all of Shono City.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>You have to lure Turbo Granny outside of the city without getting caught. If you
+                  can drag it away from its territory, it will get weak and even you guys will be
+                  able to defeat it.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker> Momo </speaker>
+               <p>Oh no, look at these feeble legs. There's no way in hell I can play tag against
+                  Turbo Granny. Instead of doing something like that, can't you make something like
+                  those barriers and deal with it? Like putting one up at the tunnel.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> I can't do that. I can't help out to begin with.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Huh? What's up with that?</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>My barrier spells only borrow the powers of the gods that live on this land. Once
+                  we leave Kamigoe City where we live, I can't use these powers.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Oh, so we have our own territory, too.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>All lands have their own gods. The problem is whether you're playing a home or an
+                  away game. In any case, this is the only way to defeat Turbo Granny. If you start
+                  physically training now, you should be able to become fast enough to run away from
+                  her.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo </speaker>
+               <p>Are you seriously saying that? No matter how hard I tried, I couldn't even make it
+                  to the prefecture finals for track meets!</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> I'm not talking about you.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo </speaker>
+               <p>Huh?</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>I'm talking about him.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> Oh, I see!</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken </speaker>
+               <p>You're finally including me into the conversation?</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Sorry, I forgot.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> But Okarun, you have no stamina.</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p> None at all.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>And I have to keep control over your curse.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Then he needs to run piggy-backing Momo.</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p> Miss Ayase, how much do you weigh?</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Hey, do ya wanna die?</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker> Ken</speaker>
+               <p>Oh no, it's just impossible! My limit for going full strength in cursed mode is
+                  about twice!</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> Right!</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> Then train so that you can always be at full strength. Get to it. Push-ups,
+                  sit-ups, back extensions, and squats. Five sets, 100 reps each.</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken </speaker>
+               <p>Huh?</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Do it. And Momo, same goes for your psychic powers. You need to power them up more
+                  than what they are now. As I can't be of any help, you guys simply have to get
+                  stronger. So I will be training the two of you. Go to sleep for today. We'll start
+                  tomorrow. Four-eyes, start your physical training right now.</p>
+            </sp>
+
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p> Oh, okay. Your granny is so young.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Isn't she annoying?</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken </speaker>
+               <p>Miss Ayase, I'm so sorry.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo </speaker>
+               <p>When I fought that big thing, I was honestly too desperate to think of anyone
+                  other than myself. I'm really sorry.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Oh, there's nothing you could've done about that.</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken </speaker>
+               <p> But Miss Ayase, you were different. You saved me and defeated the monster. But if
+                  something like that happens again, I'll do my best so that I can save you. So
+                  please don't be disappointed with me. Please, don't stop being a friend.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> I wouldn't be disappointed. You're overthinking.</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p> Then why did you slam the door earlier?</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>W-Well, that was…</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>See, there you go! You really were disappointed!</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>I said I wasn't! But like, I am right now! You're such a pain!</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p> I'm sorry.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>You were pretty awesome when you were fighting. But you're kinda dense, Okarun.
+                  I'll probably be saving you next time, too! You sleep there for today. I'll bring
+                  you a futon right now.</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken </speaker>
+               <p>Miss Ayase! Um, well… I'm… really thirsty, so can I have some water?</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Can I take this barley tea?</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko </speaker>
+               <p>Sure thing.</p>
+            </sp>
+
+            <sp who="tv">
+               <speaker> Tv </speaker>
+               <p>We have some shocking news that just came in! It came out into the open that
+                  popular idol Shoma had a secret child! And his age wasn't 20, but actually 27!</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>They need to correct his favorite food from ramen to curry, too!</p>
+            </sp>
+            <sp who="tv">
+               <speaker>Tv </speaker>
+               <p>Furthermore… …he and his partner… …have not… …formally submitted… …a marriage
+                  license.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko </speaker>
+               <p>I could care less about that news.</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken </speaker>
+               <p> Miss Ayase!</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> Crap! Okarun wants to go to the bathroom!</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> Just go.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>No, but this is seriously bad news! If something blocks my view and I can't see
+                  Okarun, my spell on him breaks! In other words, I have to watch Okarun as he
+                  relieves himself!</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> Then watch him.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>I'd never want to watch!</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Who would show you, anyway? That tramples upon someone else's dignity! Hey! Don't
+                  look away!</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo </speaker>
+               <p>Don't you have any good ideas?</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Dunno. How the hell are you holding the curse back to begin with, anyway?</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> Let's see… How do I put it… It's like I can see an aura around Okarun.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>An aura?</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo </speaker>
+               <p>And when I crush that aura with my hands, the aura shrinks. And the curse
+                  subsides, I guess? Everyone has some kind of aura, and they come in all sorts of
+                  colors. I see them on the trees and rocks there too. I can grab all those auras
+                  and move them at my will, though only in a small area.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>I see. I thought psychic powers were a lot more omnipotent. Sounds like they're
+                  quite limited.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>It was a lot more amazing the moment the powers awoke inside of me. That was when
+                  everything I imagined turned into reality, like I was invincible!But that went
+                  away real quick. I can only grab auras and stuff now.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Momo, close your eyes for a bit.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> No way. If I do that, my spell will be lifted.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Basically, the problem is the reliance on your vision. Try using all of your
+                  senses, such as touch. The fact that you can grab the aura means that it's
+                  tactile. So close those eyes and try feeling the aura with your skin. Slowly, feel
+                  it around you.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> So cold. How am I doing?</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> Yeah. He's transformed. No good.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> Well, crap.</p>
+            </sp>
+         </div>
+         <div type="event" xml:id="s1e3-event7">
+            <stage type="location" where="ayaseHome"/>
+            <sp who="Ken">
+               <speaker> Ken </speaker>
+               <p>That really pushed me close to the limit! I won't last much longer!</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>What are you gonna do, Momo? He's gonna poop any moment.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> You're the one who told me to try that!</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p> I don't want to be watched as I relieve myself! But I wanna pee in my pants even
+                  less!</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Hold on!</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken </speaker>
+               <p> I'm gonna borrow your bathro--</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>You've got some nerve to take a dump in someone else's house, punk!</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>I'm pretty desperate too, you know!</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker> Momo</speaker>
+               <p>Why you little… Who said they'd lend you the bathroom?</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Are you an absolute idiot? I can piss right here if you want!</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Let me in on this too!</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo </speaker>
+               <p>Don't think you can run faster than me in this house!</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker> Ken </speaker>
+               <p>Outta my way! Or you'll have a disaster!</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Not bad, Ken Takakura!</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken </speaker>
+               <p>This one is mine!</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Not letting you!</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker> Ken</speaker>
+               <p>This is humiliating.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Says you.</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>I had looked forward to experiences unknown until now, like getting abducted by
+                  aliens.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo </speaker>
+               <p>Seriously?</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>But this is just too much. I want to hurry up and be released from this curse.</p>
+            </sp>
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> Momo, you said that you were invincible when your powers first awoke.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> Yeah.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker> Seiko </speaker>
+               <p>That's likely your original power. And it seems for some reason, that power has
+                  been sealed off.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>What's with that? It sounds kinda cool.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>It's a pain in the butt. You have to unleash it bit by bit through training, and
+                  we don't know how long that will take. Though it's okay because it looks like that
+                  boy's physical makeover will take some time.</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>I have to be watched while going to the bathroom for a while?</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo </speaker>
+               <p>That's my line…</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Grandma, it's here! Turbo Granny! Grandma? Grandma?</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Damn you! What the hell are you doing to Grandma?</p>
+            </sp>
+
+            <sp who="turboGranny">
+               <speaker>turboGranny</speaker>
+               <p> I'm letting her choose her cause of death. A heart attack or a stroke. My curse
+                  is contagious through this brat. Any human this brat sees, I can curse to death.
+                  Don't underestimate me. I'm not gonna give you any time. Come to the tunnel
+                  tonight. Otherwise, I'll use this brat to curse everyone around there to death.
+                  That's tonight. Got that?</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>A nosebleed…</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo </speaker>
+               <p> Grandma!</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> What's this?</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo </speaker>
+               <p> You're bleeding from your ears, too! Does your head hurt or something?</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> Momo. Let's hear about what just happened.</p>
+            </sp>
+         </div>
+
+         <div type="event" xml:id="s1e3-event8">
+            <stage type="location" where="road"/>
+            <sp who="Momo">
+               <speaker>Momo </speaker>
+               <p>Am I seriously wearing this?</p>
+            </sp>
+
+            <sp who="ken">
+               <speaker>Ken</speaker>
+               <p>It's hard to see in front of me.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> That's a bulletproof vest against evil spirits. Make sure to keep them on. If you
+                  let your guard down, you'll die quite easily.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>I know that! Despite how we look, we did defeat aliens!</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>There's no such thing as aliens. Quit horsing around.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Oh, okay.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>You bring all the trouble home in the first place because you're like that. You've
+                  never listened to me ever since you were a little kid.</p>
+            </sp>
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> Man, so annoying! Grandma's nagging is annoying. Let's go, Okarun.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p>Momo!</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> What now? You're so naggy.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> Don't die.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Yeah.</p>
+            </sp>
+
+            <sp who="Seiko">
+               <speaker>Seiko</speaker>
+               <p> I beg of you. Please, protect those two.</p>
+            </sp>
+         </div>
+         <div type="event" xml:id="s1e3-event9">
+            <stage type="location" where="train"/>
+            <sp who="Ken">
+               <speaker> Ken </speaker>
+               <p>Why are we going by train?</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>It's too far by bicycle! And you don't want to use up your stamina before we get
+                  there! You seriously aren't getting off the hook, Turbo Granny!</p>
+            </sp>
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>I'm sorry, this is all for…</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker> Momo</speaker>
+               <p>No way! That hag tried to hurts omething dear to me! I'm gonna beat Turbo Granny
+                  into a pulp!</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p> Hold on, Miss Ayase You shouldn't do that here!</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo </speaker>
+               <p>I want to hurry up and take these off.</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p> Is it okay to do that? It's a battle uniform to protect yourself from evil
+                  spirits, right? Your grandmother said keep it on.</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p>Who the hell would wear something like that? Fashion is the battle uniform for
+                  gyarus! I can't get hyped up unless I wear the clothes I want to wear!</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Why are you smiling?</p>
+            </sp>
+
+            <sp who="Momo">
+               <speaker>Momo</speaker>
+               <p> Isn't this kinda fun?</p>
+            </sp>
+
+            <sp who="Ken">
+               <speaker>Ken</speaker>
+               <p>Not at all. I feel like I'm about to puke.</p>
+            </sp>
+         </div>
+
+
+
+      </body>
+   </text>
+</TEI>

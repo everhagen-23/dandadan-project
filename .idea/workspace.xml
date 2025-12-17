@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4588b356-df85-4c9f-b50f-aec9a367d340" name="Changes" comment="better audio">
+    <list default="true" id="4588b356-df85-4c9f-b50f-aec9a367d340" name="Changes" comment="wrapping up data page + home edits!! !">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/data.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/data.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +83,8 @@
       <workItem from="1765478837996" duration="305000" />
       <workItem from="1765558563490" duration="1291000" />
       <workItem from="1765567290224" duration="883000" />
-      <workItem from="1765921308662" duration="3054000" />
+      <workItem from="1765921308662" duration="3109000" />
+      <workItem from="1765943005723" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="adding file placeholders">
       <option name="closed" value="true" />
@@ -120,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765567316807</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="wrapping up data page + home edits!! !">
+      <option name="closed" value="true" />
+      <created>1765924430169</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765924430169</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +137,7 @@
     <MESSAGE value="updated iframe" />
     <MESSAGE value="data touches + homepage pretty" />
     <MESSAGE value="better audio" />
-    <option name="LAST_COMMIT_MESSAGE" value="better audio" />
+    <MESSAGE value="wrapping up data page + home edits!! !" />
+    <option name="LAST_COMMIT_MESSAGE" value="wrapping up data page + home edits!! !" />
   </component>
 </project>
