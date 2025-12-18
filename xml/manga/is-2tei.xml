@@ -720,9 +720,6 @@
                   <p>It's obliterated your personalility!</p>
                </cbml:balloon>
                <cbml:balloon type="speech" who="Ken">
-                  <p>My consciousness is full present though.</p>
-               </cbml:balloon>
-               <cbml:balloon type="speech" who="Ken">
                   <p>My consciousness is fully present though.</p>
                </cbml:balloon>
                <cbml:balloon type="speech" who="Ken">
